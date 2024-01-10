@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd08fe965cdc6200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Async.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd01e9b12005da4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript high level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Promises.md",
+                "file": "Javascript high level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Promises.md",
+                "file": "Javascript high level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Promises.md"
+                "file": "Javascript high level.md"
               }
             }
           }
@@ -147,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be03eab04ab59f32",
+  "active": "fd01e9b12005da4f",
   "lastOpenFiles": [
     "Promises.md",
-    "Welcome.md",
-    "Untitled.canvas"
+    "Javascript high level.md",
+    "Async.md",
+    "Untitled.canvas",
+    "Welcome.md"
   ]
 }

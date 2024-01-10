@@ -1,0 +1,205 @@
+it is single threaded
+can be made into using multiple chilgren processes via the cluster module
+
+types of declarations
+- let
+- var
+- const
+
+data types
+- strings
+- numbers
+- booleans
+
+```js
+let arr=["",""]
+
+for(let i=0;i<arr.length;i++){}
+
+deets = {
+    "prop": "val"
+}
+console.log(deets["prop"])//deets.prop
+
+users=[{},{},{}]
+
+function sum(){}
+
+```
+
+functions can be sent as arguments
+```js
+setTimeout(calBackfn,1000)
+setInterval(callBackFun, 1000)
+```
+
+calculating how much time it takes for the callbackfn to be called
+
+```js
+function measureTime(tata){
+    const before=new Date();
+    setTimeout(tata, 1000);
+    const after=new Date();
+    console.log(after.getTime()-before.getTime());
+}
+measureTime();
+```
+
+when calculating money avoid using float, just convert to a smaller unit
+$1=100 cents
+###### string, number and array functions
+- str.length
+- str.indexOf(target)
+- str.lastIndexOf(target)
+- str.slice(start,end) //end exclusive
+- str.substr(start,length)
+- str.replace(target,replacement)
+- str.split("delimiter");=>["","",""]
+- str.trim()
+- str.toUpperCase()
+- str.toLowerCase()
+
+- parseInt(val);
+	- "42"=>42
+	- "42px"=>42
+	- "4.2"=>4
+	- "gibebrish42"=>NaN
+- parseFloat(val);
+
+- let arr=[1,2,3];
+- arr.push(4)//[1,2,3,4]
+- arr.pop()//4
+- arr.shift()//1, to pop from front
+- arr.unshift(0)//[0,1,2,3,4]
+- let arr3=arr1.concat(arr2);
+- arr.foreach(print);
+- arr.map(print)
+- filter 
+- find 
+- sort
+
+###### classes
+```js
+class Animal {
+    static var = "static type";
+    constructor(name, legCount) {
+        this.alive = true;
+        this.dead = !this.alive;
+        this.name = name;
+        this.legCount = legCount;
+    }
+    describe() {
+        return `${this.name} has ${this.legCount} legs`;
+    }
+    static myType() {
+       console.log("Animal");
+        return "Animal";
+   }
+}
+Animal.myType();
+console.log(Animal.var);
+console.log(new Animal("dog", 4).alive);
+console.log(new Animal("dog", 4).dead);
+//dont use function keyword inside class in java script
+```
+###### dates
+
+date functions
+- getMonth()
+- getDate()
+- getYear()
+- getFullYear()
+- getHours()
+- getMinutes()
+- getSeconds()
+
+we also have setters for the same
+
+- getTime()
+
+```js
+const currDate = new Date();
+console.log(currDate.getMonth() + 1);//because it is zero indexed
+console.log(currDate.getDate());
+console.log(currDate.getYear());//returns curr year -1900
+console.log(currDate.getFullYear());//to get the year
+console.log(currDate);//2024-01-07T13:47:26.774Z
+currDate.getHours();
+currDate.getMinutes();
+currDate.getSeconds();
+
+//we can change the values with the setters
+currDate.setFullYear(2022);
+
+currDate.getTime();// returns the time in milliseconds since 1970
+
+function measureTime() {
+    const before = new Date();
+    const beforems = before.getTime();
+    //let afterms = 0;
+    setTimeout(() => {
+        for (let i = 0; i < 100000000; i++) {
+
+        }
+        const after = new Date();
+        let afterms = after.getTime();
+        console.log(afterms - beforems);
+    }, 1000);
+    //something();
+}
+
+measureTime();
+
+```
+###### JSON
+```js
+const user={"name":"harkirat","age":18};
+const User=JSON.parse(user);
+console.log(User.name);//User["name"]
+console.log(JSON.stringify(User));
+```
+
+###### object
+- keys()
+- values()
+- entries()
+- hasOwnProperty()//contains key
+```js
+let obj={};
+console.log(Object.keys(obj));
+Object.values(obj);
+Object.entries(obj);// returns multi dimensional array of all the entries
+
+const obj = {
+name: "harkirat",
+age: {
+        born: 1992,
+        now: 2023,
+        total: 2023 - 1992
+    },
+};
+
+console.log(Object.entries(obj));
+
+//[
+//    [ 'name', 'harkirat' ],
+//    [ 'age', { born: 1992, now: 2023, total: 31 } ]
+//]
+
+obj.hasOwnProperty("key");//returns true if contains key 
+```
+concat for lists, but for objects we have assign
+```js
+let newObj = Object.assign({}, obj, { newProperty: "newValue" })
+```
+anonymous functions
+```js
+function(a){
+    return a*a;
+}```
+need to be assigned to a variable above code will throw error
+```js
+let abc = function (a) {
+    console.log(a);
+}(5);
+```
