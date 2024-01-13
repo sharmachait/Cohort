@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d3c28a7e3102d8d",
+        "id": "03c0a86c08dcc2f9",
         "type": "tabs",
         "children": [
           {
-            "id": "a14e084e7dc964ff",
+            "id": "e3005a491a37fe6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/2. Async.md",
+                "file": "JS/6. Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/2. Async.md",
+                "file": "JS/6. Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/2. Async.md",
+                "file": "JS/6. Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/2. Async.md"
+                "file": "JS/6. Arrays.md"
               }
             }
           }
@@ -133,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 274.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,12 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a14e084e7dc964ff",
+  "active": "e3005a491a37fe6d",
   "lastOpenFiles": [
     "JS/3. Promises.md",
     "JS/2. Async.md",
     "JS/1. Javascript high level.md",
     "Pasted image 20240111114628.png",
+    "JS/6. Arrays.md",
+    "JS/5. memory in js.md",
+    "JS/4. Conversions in JS.md",
+    "Untitled.md",
+    "2024-01-11.md",
+    "Untitled.canvas",
     "JS/Async.md",
     "JS/Promises.md",
     "JS/Javascript high level.md",
@@ -163,7 +170,6 @@
     "New folder",
     "Javascript high level.md",
     "Async.md",
-    "Untitled.canvas",
     "Welcome.md"
   ]
 }
