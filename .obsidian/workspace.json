@@ -8,12 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3005a491a37fe6d",
+            "id": "c94274294b69a7cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/6. Arrays.md",
+                "file": "JS/10. set and map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c95daab2a0cbc8f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/9. objects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4775ae8ff6ecd8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/8. arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ea023d38b039498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/7. strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 302.5026054382324
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -86,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/6. Arrays.md",
+                "file": "JS/10. set and map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/6. Arrays.md",
+                "file": "JS/10. set and map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/6. Arrays.md"
+                "file": "JS/10. set and map.md"
               }
             }
           }
@@ -147,16 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3005a491a37fe6d",
+  "active": "c94274294b69a7cc",
   "lastOpenFiles": [
+    "JS/9. objects.md",
+    "JS/10. set and map.md",
+    "NodeJS/1. Node runtime.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "JS/7. strings.md",
+    "JS/8. arrays.md",
+    "NodeJS",
+    "JS/6. Arrays.md",
     "JS/3. Promises.md",
     "JS/2. Async.md",
-    "JS/1. Javascript high level.md",
     "Pasted image 20240111114628.png",
-    "JS/6. Arrays.md",
     "JS/5. memory in js.md",
     "JS/4. Conversions in JS.md",
-    "Untitled.md",
     "2024-01-11.md",
     "Untitled.canvas",
     "JS/Async.md",
