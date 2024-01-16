@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03c0a86c08dcc2f9",
+        "id": "c2003f7a1475afb6",
         "type": "tabs",
         "children": [
           {
-            "id": "c94274294b69a7cc",
+            "id": "6e76de770c840311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/10. set and map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c95daab2a0cbc8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/9. objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4775ae8ff6ecd8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/8. arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ea023d38b039498",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/7. strings.md",
+                "file": "NodeJS/1. Node runtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5026054382324
+    "width": 259.5
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/10. set and map.md",
+                "file": "NodeJS/1. Node runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/10. set and map.md",
+                "file": "NodeJS/1. Node runtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/10. set and map.md"
+                "file": "NodeJS/1. Node runtime.md"
               }
             }
           }
@@ -182,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c94274294b69a7cc",
+  "active": "6e76de770c840311",
   "lastOpenFiles": [
-    "JS/9. objects.md",
-    "JS/10. set and map.md",
-    "NodeJS/1. Node runtime.md",
     "JS/1. Javascript high level, dates and json.md",
+    "NodeJS/1. Node runtime.md",
+    "NodeJS/Untitled.md",
     "JS/7. strings.md",
     "JS/8. arrays.md",
+    "JS/9. objects.md",
+    "JS/10. set and map.md",
     "NodeJS",
     "JS/6. Arrays.md",
     "JS/3. Promises.md",
