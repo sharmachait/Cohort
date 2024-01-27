@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2003f7a1475afb6",
+        "id": "57aec4ad7db44676",
         "type": "tabs",
         "children": [
           {
-            "id": "6e76de770c840311",
+            "id": "d8b6dca63b35c790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/1. Node runtime.md",
+                "file": "NodeJS-ExpressJS/4. authentication and Zod(input validation libraries).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5026054382324
+    "width": 200
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/1. Node runtime.md",
+                "file": "NodeJS-ExpressJS/4. authentication and Zod(input validation libraries).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/1. Node runtime.md",
+                "file": "NodeJS-ExpressJS/4. authentication and Zod(input validation libraries).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/1. Node runtime.md"
+                "file": "NodeJS-ExpressJS/4. authentication and Zod(input validation libraries).md"
               }
             }
           }
@@ -141,32 +141,39 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e76de770c840311",
+  "active": "d8b6dca63b35c790",
   "lastOpenFiles": [
-    "NodeJS/1. Node runtime.md",
-    "NodeJS/Untitled.md",
+    "Excalidraw/Drawing 2024-01-27 17.49.31.excalidraw.md",
+    "NodeJS-ExpressJS/4. authentication and Zod(input validation libraries).md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-01-27 17.46.22.excalidraw.md",
+    "hjgjsdfjhd.canvas",
+    "NodeJS-ExpressJS/3. Middlewares.md",
+    "NodeJS-ExpressJS/2. In memory todo example.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
     "JS/7. strings.md",
+    "JS/8. arrays.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "Pasted image 20240111114628.png",
+    "JS/2. Async.md",
+    "2024-01-26.md",
+    "Untitled 1.canvas",
+    "JS/3. Promises.md",
+    "JS/5. memory in js.md",
     "JS/4. Conversions in JS.md",
+    "JS/9. objects.md",
     "JS/11. map, filter, arrow functions.md",
     "JS/10. set and map.md",
-    "JS/9. objects.md",
-    "JS/8. arrays.md",
-    "JS/5. memory in js.md",
-    "JS/3. Promises.md",
-    "JS/2. Async.md",
-    "JS/1. Javascript high level, dates and json.md",
     "In memory hospital",
     "New folder",
-    "NodeJS",
+    "NodeJS-ExpressJS",
     "JS/6. Arrays.md",
-    "Pasted image 20240111114628.png",
     "2024-01-11.md",
-    "Untitled.canvas",
     "JS/Async.md",
     "JS/Promises.md",
     "JS/Javascript high level.md",
@@ -174,9 +181,6 @@
     "JS/1. Javascript high level (2).md",
     "JS/1. Javascript high level (1).md",
     "Promises.md",
-    "JS",
-    "Javascript high level.md",
-    "Async.md",
-    "Welcome.md"
+    "JS"
   ]
 }
