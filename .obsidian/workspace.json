@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79663e2edc172d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReactJS/1. Throttling and debouncing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS-ExpressJS/5. Authentication and Mongo.md",
+                "file": "ReactJS/1. Throttling and debouncing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS-ExpressJS/5. Authentication and Mongo.md",
+                "file": "ReactJS/1. Throttling and debouncing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS-ExpressJS/5. Authentication and Mongo.md"
+                "file": "ReactJS/1. Throttling and debouncing.md"
               }
             }
           }
@@ -147,13 +160,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8b6dca63b35c790",
+  "active": "79663e2edc172d68",
   "lastOpenFiles": [
-    "NodeJS-ExpressJS/1. Node runtime.md",
-    "NodeJS-ExpressJS/3. Middlewares.md",
     "NodeJS-ExpressJS/5. Authentication and Mongo.md",
-    "Untitled.md",
+    "ReactJS/1. Throttling and debouncing.md",
+    "ReactJS",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+    "JS/12. error handling.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "NodeJS-ExpressJS/3. Middlewares.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
     "NodeJS-ExpressJS/2. In memory todo example.md",
     "Excalidraw/Drawing 2024-01-28 13.22.11.excalidraw.md",
     "Excalidraw",
@@ -162,7 +178,6 @@
     "hjgjsdfjhd.canvas",
     "JS/7. strings.md",
     "JS/8. arrays.md",
-    "JS/1. Javascript high level, dates and json.md",
     "Pasted image 20240111114628.png",
     "JS/2. Async.md",
     "2024-01-26.md",
@@ -180,8 +195,6 @@
     "2024-01-11.md",
     "JS/Async.md",
     "JS/Promises.md",
-    "JS/Javascript high level.md",
-    "JS/1. Javascript high level (3).md",
     "JS"
   ]
 }
