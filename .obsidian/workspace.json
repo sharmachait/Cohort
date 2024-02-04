@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57aec4ad7db44676",
+        "id": "36016cb1728d555a",
         "type": "tabs",
         "children": [
           {
-            "id": "d8b6dca63b35c790",
+            "id": "336e821bd2245824",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "79663e2edc172d68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReactJS/1. Throttling and debouncing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactJS/1. Throttling and debouncing.md",
+                "file": "NodeJS-ExpressJS/5. Authentication and Mongo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReactJS/1. Throttling and debouncing.md",
+                "file": "NodeJS-ExpressJS/5. Authentication and Mongo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/1. Throttling and debouncing.md"
+                "file": "NodeJS-ExpressJS/5. Authentication and Mongo.md"
               }
             }
           }
@@ -160,17 +147,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79663e2edc172d68",
+  "active": "336e821bd2245824",
   "lastOpenFiles": [
+    "NodeJS-ExpressJS/6. express routers.md",
     "NodeJS-ExpressJS/5. Authentication and Mongo.md",
-    "ReactJS/1. Throttling and debouncing.md",
-    "ReactJS",
-    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
-    "JS/12. error handling.md",
-    "JS/1. Javascript high level, dates and json.md",
-    "NodeJS-ExpressJS/3. Middlewares.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
     "NodeJS-ExpressJS/2. In memory todo example.md",
+    "NodeJS-ExpressJS/3. Middlewares.md",
+    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+    "ReactJS/1. Throttling and debouncing.md",
+    "ReactJS/2. React foundation.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "ReactJS",
+    "JS/12. error handling.md",
     "Excalidraw/Drawing 2024-01-28 13.22.11.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-01-27 17.49.31.excalidraw.md",
@@ -194,7 +183,6 @@
     "JS/6. Arrays.md",
     "2024-01-11.md",
     "JS/Async.md",
-    "JS/Promises.md",
     "JS"
   ]
 }
