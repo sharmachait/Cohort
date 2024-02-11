@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/13. closures.md",
+                "file": "ReactJS/2. React foundation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/13. closures.md",
+                "file": "ReactJS/2. React foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/13. closures.md",
+                "file": "ReactJS/2. React foundation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/13. closures.md"
+                "file": "ReactJS/2. React foundation.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "336e821bd2245824",
   "lastOpenFiles": [
-    "JS/14. immediately invoked function expressions and closures.md",
-    "ReactJS/1. Throttling and debouncing.md",
-    "NodeJS-ExpressJS/1. Node runtime.md",
-    "NodeJS-ExpressJS/2. In memory todo example.md",
-    "NodeJS-ExpressJS/3. Middlewares.md",
-    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "NodeJS-ExpressJS/5. Authentication and Mongo.md",
+    "ReactJS/2. React foundation.md",
+    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "NodeJS-ExpressJS/6. express routers.md",
+    "ReactJS/1. Throttling and debouncing.md",
+    "NodeJS-ExpressJS/3. Middlewares.md",
+    "NodeJS-ExpressJS/2. In memory todo example.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
     "JS/13. closures.md",
+    "JS/14. immediately invoked function expressions and closures.md",
     "JS/3. Promises.md",
     "JS/4. Conversions in JS.md",
     "JS/5. memory in js.md",
@@ -166,7 +167,6 @@
     "JS/10. set and map.md",
     "JS/11. map, filter, arrow functions.md",
     "JS/12. error handling.md",
-    "ReactJS/2. React foundation.md",
     "JS/1. Javascript high level, dates and json.md",
     "ReactJS",
     "Excalidraw/Drawing 2024-01-28 13.22.11.excalidraw.md",
