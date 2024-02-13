@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/2. React foundation.md",
+                "file": "NodeJS-ExpressJS/7. Handling files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactJS/2. React foundation.md",
+                "file": "NodeJS-ExpressJS/7. Handling files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReactJS/2. React foundation.md",
+                "file": "NodeJS-ExpressJS/7. Handling files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/2. React foundation.md"
+                "file": "NodeJS-ExpressJS/7. Handling files.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "336e821bd2245824",
   "lastOpenFiles": [
-    "NodeJS-ExpressJS/5. Authentication and Mongo.md",
+    "ReactJS/4. Sending Files.md",
+    "NodeJS-ExpressJS/7. Handling files.md",
+    "ReactJS/3. React Quill.md",
     "ReactJS/2. React foundation.md",
+    "NodeJS-ExpressJS/5. Authentication and Mongo.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "NodeJS-ExpressJS/6. express routers.md",
     "ReactJS/1. Throttling and debouncing.md",
@@ -175,13 +178,10 @@
     "Excalidraw/Drawing 2024-01-27 17.46.22.excalidraw.md",
     "hjgjsdfjhd.canvas",
     "Pasted image 20240111114628.png",
-    "JS/2. Async.md",
-    "2024-01-26.md",
     "Untitled 1.canvas",
     "In memory hospital",
     "New folder",
     "NodeJS-ExpressJS",
-    "JS/6. Arrays.md",
     "JS"
   ]
 }
