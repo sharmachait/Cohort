@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mongo/1. Mongo Db.md",
+                "file": "ReactJS/6. Hooks.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.51103591918945
+    "width": 241.5110321044922
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mongo/1. Mongo Db.md",
+                "file": "ReactJS/6. Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mongo/1. Mongo Db.md",
+                "file": "ReactJS/6. Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mongo/1. Mongo Db.md"
+                "file": "ReactJS/6. Hooks.md"
               }
             }
           }
@@ -161,20 +161,26 @@
   },
   "active": "c320a22472c20fd0",
   "lastOpenFiles": [
-    "NodeJS-ExpressJS/5. Authentication.md",
+    "ReactJS/1. React foundation.md",
+    "ReactJS/6. Hooks.md",
+    "ReactJS/6. Wrapper Components.md",
+    "ReactJS/5. Rect.memo.md",
+    "ReactJS/4. Sending Files.md",
+    "ReactJS/3. React Quill.md",
+    "ReactJS/2. Throttling and debouncing.md",
+    "Pasted image 20240217140819.png",
+    "Pasted image 20240217135208.png",
+    "JS/15. Shallow VS Deep copy.md",
     "Mongo/1. Mongo Db.md",
+    "NodeJS-ExpressJS/5. Authentication.md",
     "JS/1. Javascript high level, dates and json.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
     "Mongo",
     "NodeJS-ExpressJS/7. Handling files.md",
     "Pasted image 20240111114628.png",
-    "ReactJS/4. Sending Files.md",
     "JS/8. arrays.md",
-    "ReactJS/3. React Quill.md",
-    "ReactJS/2. React foundation.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "NodeJS-ExpressJS/6. express routers.md",
-    "ReactJS/1. Throttling and debouncing.md",
     "NodeJS-ExpressJS/3. Middlewares.md",
     "NodeJS-ExpressJS/2. In memory todo example.md",
     "JS/13. closures.md",
@@ -185,10 +191,7 @@
     "JS/7. strings.md",
     "JS/9. objects.md",
     "JS/10. set and map.md",
-    "JS/11. map, filter, arrow functions.md",
-    "JS/12. error handling.md",
     "ReactJS",
-    "Excalidraw/Drawing 2024-01-28 13.22.11.excalidraw.md",
     "Excalidraw",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas",
