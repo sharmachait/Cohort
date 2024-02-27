@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/8. arrays.md",
+                "file": "Mongo/4. Mongoose middlewares.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/8. arrays.md",
+                "file": "Mongo/4. Mongoose middlewares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/8. arrays.md",
+                "file": "Mongo/4. Mongoose middlewares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/8. arrays.md"
+                "file": "Mongo/4. Mongoose middlewares.md"
               }
             }
           }
@@ -148,22 +148,26 @@
   },
   "active": "97eae83b4e1631e7",
   "lastOpenFiles": [
+    "Mongo/2. Schemas.md",
+    "Mongo/4. Mongoose middlewares.md",
+    "Mongo/3. CRUD.md",
     "Mongo/1. Mongoose.md",
-    "NodeJS-ExpressJS/7. Handling files.md",
+    "ReactJS/6. Hooks.md",
+    "ReactJS/9. Context.md",
+    "ReactJS/8. Axios.md",
     "ReactJS/4. Sending Files.md",
+    "ReactJS/7. Layout with outlet and router.md",
+    "ReactJS/5. Rect.memo.md",
+    "JS/8. arrays.md",
+    "NodeJS-ExpressJS/7. Handling files.md",
     "ReactJS/10. upload file From Directory.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
-    "ReactJS/9. Context.md",
     "Untitled.md",
     "NodeJS-ExpressJS/3. Middlewares.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "NodeJS-ExpressJS/6. express routers.md",
     "NodeJS-ExpressJS/5. Authentication.md",
     "NodeJS-ExpressJS/9. Downloading images from links.md",
-    "ReactJS/6. Hooks.md",
-    "ReactJS/8. Axios.md",
-    "ReactJS/5. Rect.memo.md",
-    "ReactJS/7. Layout with outlet and router.md",
     "Pasted image 20240221124116.png",
     "NodeJS-ExpressJS/8. env variable.md",
     "ReactJS/1. React foundation.md",
@@ -173,12 +177,8 @@
     "Pasted image 20240217140819.png",
     "Pasted image 20240217135208.png",
     "JS/15. Shallow VS Deep copy.md",
-    "JS/1. Javascript high level, dates and json.md",
     "Mongo",
     "Pasted image 20240111114628.png",
-    "JS/8. arrays.md",
-    "NodeJS-ExpressJS/2. In memory todo example.md",
-    "JS/13. closures.md",
     "ReactJS",
     "Excalidraw",
     "hjgjsdfjhd.canvas",
