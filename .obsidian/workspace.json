@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mongo/4. Mongoose middlewares.md",
+                "file": "JS/4. Conversions in JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.51103591918945
+    "width": 200
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mongo/4. Mongoose middlewares.md",
+                "file": "JS/4. Conversions in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mongo/4. Mongoose middlewares.md",
+                "file": "JS/4. Conversions in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mongo/4. Mongoose middlewares.md"
+                "file": "JS/4. Conversions in JS.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "97eae83b4e1631e7",
   "lastOpenFiles": [
-    "Mongo/2. Schemas.md",
-    "Mongo/4. Mongoose middlewares.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
+    "Mongo/5. Aggregations.md",
+    "JS/7. strings.md",
+    "JS/4. Conversions in JS.md",
     "Mongo/3. CRUD.md",
+    "Mongo/4. Mongoose middlewares.md",
+    "Mongo/2. Schemas.md",
     "Mongo/1. Mongoose.md",
     "ReactJS/6. Hooks.md",
     "ReactJS/9. Context.md",
@@ -161,7 +166,6 @@
     "JS/8. arrays.md",
     "NodeJS-ExpressJS/7. Handling files.md",
     "ReactJS/10. upload file From Directory.md",
-    "NodeJS-ExpressJS/1. Node runtime.md",
     "Untitled.md",
     "NodeJS-ExpressJS/3. Middlewares.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
@@ -171,12 +175,8 @@
     "Pasted image 20240221124116.png",
     "NodeJS-ExpressJS/8. env variable.md",
     "ReactJS/1. React foundation.md",
-    "ReactJS/6. Wrapper Components.md",
-    "ReactJS/3. React Quill.md",
-    "ReactJS/2. Throttling and debouncing.md",
     "Pasted image 20240217140819.png",
     "Pasted image 20240217135208.png",
-    "JS/15. Shallow VS Deep copy.md",
     "Mongo",
     "Pasted image 20240111114628.png",
     "ReactJS",
