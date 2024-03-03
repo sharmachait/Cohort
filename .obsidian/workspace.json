@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/4. Conversions in JS.md",
+                "file": "Mongo/5. Aggregations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/4. Conversions in JS.md",
+                "file": "Mongo/5. Aggregations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/4. Conversions in JS.md",
+                "file": "Mongo/5. Aggregations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/4. Conversions in JS.md"
+                "file": "Mongo/5. Aggregations.md"
               }
             }
           }
@@ -148,33 +148,35 @@
   },
   "active": "97eae83b4e1631e7",
   "lastOpenFiles": [
-    "JS/1. Javascript high level, dates and json.md",
+    "ReactJS/10. upload file From Directory.md",
+    "ReactJS/11. custom hooks.md",
+    "ReactJS/7. Layout with outlet and router.md",
+    "ReactJS/6. Hooks.md",
+    "ReactJS/5. Rect.memo.md",
+    "ReactJS/8. Axios.md",
+    "ReactJS/9. Context.md",
+    "NodeJS-ExpressJS/8. env variable.md",
+    "NodeJS-ExpressJS/7. Handling files.md",
+    "NodeJS-ExpressJS/5. Authentication.md",
+    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+    "NodeJS-ExpressJS/9. Downloading images from links.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
     "Mongo/5. Aggregations.md",
-    "JS/7. strings.md",
-    "JS/4. Conversions in JS.md",
-    "Mongo/3. CRUD.md",
     "Mongo/4. Mongoose middlewares.md",
+    "Mongo/3. CRUD.md",
     "Mongo/2. Schemas.md",
     "Mongo/1. Mongoose.md",
-    "ReactJS/6. Hooks.md",
-    "ReactJS/9. Context.md",
-    "ReactJS/8. Axios.md",
-    "ReactJS/4. Sending Files.md",
-    "ReactJS/7. Layout with outlet and router.md",
-    "ReactJS/5. Rect.memo.md",
+    "JS/15. Shallow VS Deep copy.md",
+    "JS/14. immediately invoked function expressions and closures.md",
+    "JS/13. closures.md",
+    "JS/12. error handling.md",
+    "JS/11. map, filter, arrow functions.md",
+    "JS/10. set and map.md",
+    "JS/9. objects.md",
     "JS/8. arrays.md",
-    "NodeJS-ExpressJS/7. Handling files.md",
-    "ReactJS/10. upload file From Directory.md",
-    "Untitled.md",
-    "NodeJS-ExpressJS/3. Middlewares.md",
-    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
-    "NodeJS-ExpressJS/6. express routers.md",
-    "NodeJS-ExpressJS/5. Authentication.md",
-    "NodeJS-ExpressJS/9. Downloading images from links.md",
+    "Pasted image 20240302231302.png",
+    "Pasted image 20240302231114.png",
     "Pasted image 20240221124116.png",
-    "NodeJS-ExpressJS/8. env variable.md",
-    "ReactJS/1. React foundation.md",
     "Pasted image 20240217140819.png",
     "Pasted image 20240217135208.png",
     "Mongo",
