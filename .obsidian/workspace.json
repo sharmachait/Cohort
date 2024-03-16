@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/13. Recoil.md",
+                "file": "Typescript/1. init.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactJS/13. Recoil.md",
+                "file": "Typescript/1. init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReactJS/13. Recoil.md",
+                "file": "Typescript/1. init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/13. Recoil.md"
+                "file": "Typescript/1. init.md"
               }
             }
           }
@@ -146,11 +146,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97eae83b4e1631e7",
+  "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
+    "Real Time Systems",
+    "Pasted image 20240316145222.png",
+    "ReactJS/14. Tailwaind.md",
+    "Typescript/1. init.md",
+    "Typescript",
+    "ReactJS/13. Recoil.md",
     "Pasted image 20240314001419.png",
     "Untitled.md",
-    "ReactJS/13. Recoil.md",
     "Mongo/3. CRUD.md",
     "Mongo/1. Mongoose.md",
     "Mongo/2. Schemas.md",
@@ -172,8 +177,6 @@
     "NodeJS-ExpressJS/1. Node runtime.md",
     "Mongo/4. Mongoose middlewares.md",
     "JS/15. Shallow VS Deep copy.md",
-    "JS/14. immediately invoked function expressions and closures.md",
-    "JS/13. closures.md",
     "Pasted image 20240302231302.png",
     "Pasted image 20240302231114.png",
     "Pasted image 20240221124116.png",
