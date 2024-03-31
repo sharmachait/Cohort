@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md",
+                "file": "JS/16. Modules - imports - exports.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md",
+                "file": "JS/16. Modules - imports - exports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md",
+                "file": "JS/16. Modules - imports - exports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md"
+                "file": "JS/16. Modules - imports - exports.md"
               }
             }
           }
@@ -148,18 +148,30 @@
   },
   "active": "3fc11f93b04e9f15",
   "lastOpenFiles": [
-    "Typescript/4. imports - exports.md",
+    "SocketIO/1. introduction.md",
+    "Pasted image 20240331220924.png",
+    "Excalidraw/Drawing 2024-03-31 21.59.00.excalidraw.md",
     "JS SYNTAX REVISION.md",
+    "Mongo/3. CRUD.md",
+    "Pasted image 20240331220125.png",
+    "SSL certificate and its functioning.md",
+    "SocketIO",
+    "Pasted image 20240331015414.png",
+    "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
+    "Excalidraw",
+    "JS/16. Modules - imports - exports.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "ReactJS/12. routing.md",
+    "Typescript/4. imports - exports.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
     "JS/9. objects.md",
     "JS/2. Async.md",
     "JS/13. Advanced Topic.md",
     "JS/4. Conversions in JS.md",
     "JS/5. memory in js.md",
-    "JS/1. Javascript high level, dates and json.md",
     "JS/3. Promises.md",
     "Clean architecture in js/clean.md",
     "ReactJS/14. Tailwaind.md",
-    "NodeJS-ExpressJS/1. Node runtime.md",
     "Typescript/3. generics.md",
     "Typescript/2. enums.md",
     "Typescript/1. init.md",
@@ -168,14 +180,6 @@
     "Clean architecture in js",
     "NodeJS-ExpressJS/5. Authentication.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
-    "NodeJS-ExpressJS/3. Middlewares.md",
-    "NodeJS-ExpressJS/2. In memory todo example.md",
-    "NodeJS-ExpressJS/9. Downloading images from links.md",
-    "NodeJS-ExpressJS/8. env variable.md",
-    "NodeJS-ExpressJS/7. Handling files.md",
-    "Mongo/3. CRUD.md",
-    "Mongo/1. Mongoose.md",
-    "Mongo/2. Schemas.md",
     "Real Time Systems",
     "Pasted image 20240316145222.png",
     "Typescript",
@@ -186,13 +190,10 @@
     "Pasted image 20240217140819.png",
     "Pasted image 20240217135208.png",
     "Mongo",
-    "Pasted image 20240111114628.png",
     "ReactJS",
-    "Excalidraw",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas",
     "In memory hospital",
-    "New folder",
-    "NodeJS-ExpressJS"
+    "New folder"
   ]
 }
