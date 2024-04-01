@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/16. Modules - imports - exports.md",
+                "file": "SocketIO/2. intercating with clients.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/16. Modules - imports - exports.md",
+                "file": "SocketIO/2. intercating with clients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/16. Modules - imports - exports.md",
+                "file": "SocketIO/2. intercating with clients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/16. Modules - imports - exports.md"
+                "file": "SocketIO/2. intercating with clients.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "3fc11f93b04e9f15",
   "lastOpenFiles": [
     "SocketIO/1. introduction.md",
+    "SocketIO/2. intercating with clients.md",
+    "JS/16. Modules - imports - exports.md",
     "Pasted image 20240331220924.png",
     "Excalidraw/Drawing 2024-03-31 21.59.00.excalidraw.md",
     "JS SYNTAX REVISION.md",
@@ -159,7 +161,6 @@
     "Pasted image 20240331015414.png",
     "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
     "Excalidraw",
-    "JS/16. Modules - imports - exports.md",
     "JS/1. Javascript high level, dates and json.md",
     "ReactJS/12. routing.md",
     "Typescript/4. imports - exports.md",
