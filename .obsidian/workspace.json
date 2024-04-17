@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/12. Routing.md",
+                "file": "JS/16. Modules - imports - exports.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactJS/12. Routing.md",
+                "file": "JS/16. Modules - imports - exports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReactJS/12. Routing.md",
+                "file": "JS/16. Modules - imports - exports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/12. Routing.md"
+                "file": "JS/16. Modules - imports - exports.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "3d4bcaaeaf92e73b",
   "lastOpenFiles": [
-    "JS SYNTAX REVISION.md",
     "ReactJS/12. Routing.md",
+    "JS SYNTAX REVISION.md",
     "Azure with js/Azure Blob Storage.md",
     "JS/8. arrays.md",
     "JS/16. Modules - imports - exports.md",
