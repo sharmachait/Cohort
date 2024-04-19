@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/16. Modules - imports - exports.md",
+                "file": "JS/1. Javascript high level, dates and json.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/16. Modules - imports - exports.md",
+                "file": "JS/1. Javascript high level, dates and json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/16. Modules - imports - exports.md",
+                "file": "JS/1. Javascript high level, dates and json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/16. Modules - imports - exports.md"
+                "file": "JS/1. Javascript high level, dates and json.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "3d4bcaaeaf92e73b",
   "lastOpenFiles": [
+    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+    "NodeJS-ExpressJS/5. Authentication.md",
+    "Mongo/1. Mongoose.md",
+    "NodeJS-ExpressJS/3. Middlewares.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
+    "JS/3. Promises.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "NodeJS-ExpressJS/6. express routers.md",
+    "Mongo/3. CRUD.md",
+    "JS/16. Modules - imports - exports.md",
     "ReactJS/12. Routing.md",
     "JS SYNTAX REVISION.md",
     "Azure with js/Azure Blob Storage.md",
     "JS/8. arrays.md",
-    "JS/16. Modules - imports - exports.md",
     "Mongo/2. Schemas.md",
     "Azure with js",
-    "Mongo/3. CRUD.md",
-    "NodeJS-ExpressJS/1. Node runtime.md",
     "ReactJS/6. Hooks.md",
     "Typescript/4. imports - exports.md",
     "NodeJS-ExpressJS/9. Downloading images from links.md",
     "NodeJS-ExpressJS/8. env variable.md",
     "NodeJS-ExpressJS/7. Handling files.md",
-    "NodeJS-ExpressJS/6. express routers.md",
-    "NodeJS-ExpressJS/5. Authentication.md",
-    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
-    "NodeJS-ExpressJS/3. Middlewares.md",
     "NodeJS-ExpressJS/2. In memory todo example.md",
     "Mongo/5. Aggregations.md",
     "Mongo/4. Mongoose middlewares.md",
-    "Mongo/1. Mongoose.md",
     "SSL certificate and its functioning.md",
     "JS/15. Shallow VS Deep copy.md",
     "JS/14. immediately invoked function expressions and closures.md",
-    "JS/13. Advanced Topic.md",
-    "JS/12. error handling.md",
     "Pasted image 20240331220924.png",
     "Pasted image 20240331220125.png",
     "SocketIO",
