@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/1. Javascript high level, dates and json.md",
+                "file": "Azure with js/Azure service bus queues to send emails.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/1. Javascript high level, dates and json.md",
+                "file": "Azure with js/Azure service bus queues to send emails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/1. Javascript high level, dates and json.md",
+                "file": "Azure with js/Azure service bus queues to send emails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/1. Javascript high level, dates and json.md"
+                "file": "Azure with js/Azure service bus queues to send emails.md"
               }
             }
           }
@@ -146,21 +146,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d4bcaaeaf92e73b",
+  "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
+    "Pasted image 20240420221146.png",
+    "Azure with js/Azure Blob Storage.md",
+    "Azure with js/Azure service bus queues to send emails.md",
+    "JS/1. Javascript high level, dates and json.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "NodeJS-ExpressJS/5. Authentication.md",
     "Mongo/1. Mongoose.md",
     "NodeJS-ExpressJS/3. Middlewares.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
     "JS/3. Promises.md",
-    "JS/1. Javascript high level, dates and json.md",
     "NodeJS-ExpressJS/6. express routers.md",
     "Mongo/3. CRUD.md",
     "JS/16. Modules - imports - exports.md",
     "ReactJS/12. Routing.md",
     "JS SYNTAX REVISION.md",
-    "Azure with js/Azure Blob Storage.md",
     "JS/8. arrays.md",
     "Mongo/2. Schemas.md",
     "Azure with js",
@@ -173,8 +175,6 @@
     "Mongo/5. Aggregations.md",
     "Mongo/4. Mongoose middlewares.md",
     "SSL certificate and its functioning.md",
-    "JS/15. Shallow VS Deep copy.md",
-    "JS/14. immediately invoked function expressions and closures.md",
     "Pasted image 20240331220924.png",
     "Pasted image 20240331220125.png",
     "SocketIO",
