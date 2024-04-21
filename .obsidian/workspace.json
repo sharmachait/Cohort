@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure with js/Azure service bus queues to send emails.md",
+                "file": "Mongo/4. Mongoose middlewares.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crypt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure with js/Azure service bus queues to send emails.md",
+                "file": "Mongo/4. Mongoose middlewares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure with js/Azure service bus queues to send emails.md",
+                "file": "Mongo/4. Mongoose middlewares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure with js/Azure service bus queues to send emails.md"
+                "file": "Mongo/4. Mongoose middlewares.md"
               }
             }
           }
@@ -146,35 +146,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "3d4bcaaeaf92e73b",
   "lastOpenFiles": [
-    "Pasted image 20240420221146.png",
-    "Azure with js/Azure Blob Storage.md",
-    "Azure with js/Azure service bus queues to send emails.md",
+    "Mongo/5. Aggregations.md",
+    "SSL certificate and its functioning.md",
+    "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
+    "Mongo/2. Schemas.md",
+    "Javascript-The-Definitive-Guide.pdf",
+    "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "JS/1. Javascript high level, dates and json.md",
+    "JS SYNTAX REVISION.md",
+    "JS/13. Advanced Topic.md",
+    "JS/14. immediately invoked function expressions and closures.md",
+    "JS/10. set and map.md",
+    "JS/9. objects.md",
+    "Mongo/3. CRUD.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
+    "Azure with js/Azure service bus queues to send emails.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "NodeJS-ExpressJS/5. Authentication.md",
+    "Pasted image 20240420221146.png",
+    "Azure with js/Azure Blob Storage.md",
     "Mongo/1. Mongoose.md",
     "NodeJS-ExpressJS/3. Middlewares.md",
-    "NodeJS-ExpressJS/1. Node runtime.md",
     "JS/3. Promises.md",
     "NodeJS-ExpressJS/6. express routers.md",
-    "Mongo/3. CRUD.md",
     "JS/16. Modules - imports - exports.md",
     "ReactJS/12. Routing.md",
-    "JS SYNTAX REVISION.md",
     "JS/8. arrays.md",
-    "Mongo/2. Schemas.md",
     "Azure with js",
     "ReactJS/6. Hooks.md",
     "Typescript/4. imports - exports.md",
     "NodeJS-ExpressJS/9. Downloading images from links.md",
     "NodeJS-ExpressJS/8. env variable.md",
-    "NodeJS-ExpressJS/7. Handling files.md",
-    "NodeJS-ExpressJS/2. In memory todo example.md",
-    "Mongo/5. Aggregations.md",
-    "Mongo/4. Mongoose middlewares.md",
-    "SSL certificate and its functioning.md",
     "Pasted image 20240331220924.png",
     "Pasted image 20240331220125.png",
     "SocketIO",
@@ -190,11 +194,7 @@
     "Pasted image 20240302231114.png",
     "Pasted image 20240221124116.png",
     "Pasted image 20240217140819.png",
-    "Pasted image 20240217135208.png",
-    "Mongo",
-    "ReactJS",
     "hjgjsdfjhd.canvas",
-    "Untitled 1.canvas",
-    "In memory hospital"
+    "Untitled 1.canvas"
   ]
 }

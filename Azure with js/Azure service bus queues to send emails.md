@@ -1,4 +1,4 @@
-The 'Service' that sends an email verification email to the person who has just registered must not halt the flow of the main website, and its fine, rather desirable that sending email is handled by a service not coupled with the service that wants to send the email.
+The 'Service' that sends an email-verification email to the person who has just registered must not halt the flow of the main website, and its fine, rather desirable that sending email is handled by a service not coupled with the service that wants to send the email.
 It should be a microservice on its own.
 
 using Azure service bus queues to achieve that
