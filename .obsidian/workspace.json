@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/1. init.md",
+                "file": "Typescript/6. classes and inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 498.5
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/1. init.md",
+                "file": "Typescript/6. classes and inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/1. init.md",
+                "file": "Typescript/6. classes and inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/1. init.md"
+                "file": "Typescript/6. classes and inheritance.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "355d7e489a36d196",
+  "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
-    "Typescript/2. enums.md",
+    "Typescript/7. interfaces vs types.md",
+    "Typescript/6. classes and inheritance.md",
     "Typescript/1. init.md",
+    "SocketIO/2. interacting with clients.md",
+    "SocketIO/1. introduction.md",
+    "Typescript/2. enums.md",
     "Typescript/5. Modules.md",
     "JS/LocalStorage.md",
     "ReactJS/12. Routing.md",
@@ -173,10 +177,6 @@
     "JS/7. strings.md",
     "ReactJS/2. Throttling and debouncing.md",
     "JS/4. Conversions in JS.md",
-    "Mongo/3. CRUD.md",
-    "Mongo/4. Mongoose middlewares.md",
-    "Mongo/5. Aggregations.md",
-    "SSL certificate and its functioning.md",
     "Javascript-The-Definitive-Guide.pdf",
     "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Pasted image 20240420221146.png",
