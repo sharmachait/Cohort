@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/11. custom hooks.md",
+                "file": "Typescript/1. init.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 437.5
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactJS/11. custom hooks.md",
+                "file": "Typescript/1. init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReactJS/11. custom hooks.md",
+                "file": "Typescript/1. init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/11. custom hooks.md"
+                "file": "Typescript/1. init.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "355d7e489a36d196",
   "lastOpenFiles": [
-    "Untitled.md",
-    "ReactJS/11. custom hooks.md",
-    "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
+    "Typescript/2. enums.md",
+    "Typescript/1. init.md",
+    "Typescript/5. Modules.md",
+    "JS/LocalStorage.md",
     "ReactJS/12. Routing.md",
+    "ReactJS/11. custom hooks.md",
+    "Untitled.md",
+    "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "ReactJS/13. Recoil.md",
     "ReactJS/16. Lifecycle events.md",
     "ReactJS/15. custom axios hook.md",
@@ -173,11 +177,8 @@
     "Mongo/4. Mongoose middlewares.md",
     "Mongo/5. Aggregations.md",
     "SSL certificate and its functioning.md",
-    "Mongo/2. Schemas.md",
     "Javascript-The-Definitive-Guide.pdf",
     "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
-    "JS/1. Javascript high level, dates and json.md",
-    "JS SYNTAX REVISION.md",
     "Pasted image 20240420221146.png",
     "Azure with js",
     "Pasted image 20240331220924.png",
