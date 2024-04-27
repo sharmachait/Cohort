@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/6. classes and inheritance.md",
+                "file": "Typescript/7. type assertions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 426
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/6. classes and inheritance.md",
+                "file": "Typescript/7. type assertions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/6. classes and inheritance.md",
+                "file": "Typescript/7. type assertions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/6. classes and inheritance.md"
+                "file": "Typescript/7. type assertions.md"
               }
             }
           }
@@ -146,15 +146,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "355d7e489a36d196",
   "lastOpenFiles": [
-    "Typescript/7. interfaces vs types.md",
-    "Typescript/6. classes and inheritance.md",
     "Typescript/1. init.md",
+    "Typescript/0. Effective TypeScript notes.md",
+    "Typescript/7. type assertions.md",
+    "Typescript/2. functions.md",
+    "Typescript/6. Modules.md",
+    "Typescript/5. imports - exports.md",
+    "Typescript/5. classes and inheritance.md",
+    "Typescript/4. generics.md",
+    "Typescript/3. interfaces vs types.md",
+    "Typescript/2. enums.md",
     "SocketIO/2. interacting with clients.md",
     "SocketIO/1. introduction.md",
-    "Typescript/2. enums.md",
-    "Typescript/5. Modules.md",
     "JS/LocalStorage.md",
     "ReactJS/12. Routing.md",
     "ReactJS/11. custom hooks.md",
@@ -172,11 +177,6 @@
     "NodeJS-ExpressJS/6. express routers.md",
     "NodeJS-ExpressJS/7. Handling files.md",
     "NodeJS-ExpressJS/5. Authentication.md",
-    "NodeJS-ExpressJS/3. Middlewares.md",
-    "NodeJS-ExpressJS/2. In memory todo example.md",
-    "JS/7. strings.md",
-    "ReactJS/2. Throttling and debouncing.md",
-    "JS/4. Conversions in JS.md",
     "Javascript-The-Definitive-Guide.pdf",
     "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Pasted image 20240420221146.png",
