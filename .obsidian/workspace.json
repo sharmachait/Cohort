@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/7. type assertions.md",
+                "file": "Typescript/1. init.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".call",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426
+    "width": 274
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/7. type assertions.md",
+                "file": "Typescript/1. init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/7. type assertions.md",
+                "file": "Typescript/1. init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/7. type assertions.md"
+                "file": "Typescript/1. init.md"
               }
             }
           }
@@ -148,22 +148,26 @@
   },
   "active": "355d7e489a36d196",
   "lastOpenFiles": [
-    "Typescript/1. init.md",
-    "Typescript/0. Effective TypeScript notes.md",
+    "JS/13. Advanced Topic.md",
+    "Typescript/Index Signatures.md",
+    "Typescript/5. classes and inheritance.md",
+    "Typescript/3. interfaces vs types.md",
     "Typescript/7. type assertions.md",
+    "Untitled.md",
     "Typescript/2. functions.md",
+    "Typescript/1. init.md",
+    "SocketIO/1. introduction.md",
+    "JS/8. arrays.md",
+    "NodeJS-ExpressJS/8. env variable.md",
+    "Typescript/0. Effective TypeScript notes.md",
     "Typescript/6. Modules.md",
     "Typescript/5. imports - exports.md",
-    "Typescript/5. classes and inheritance.md",
     "Typescript/4. generics.md",
-    "Typescript/3. interfaces vs types.md",
     "Typescript/2. enums.md",
     "SocketIO/2. interacting with clients.md",
-    "SocketIO/1. introduction.md",
     "JS/LocalStorage.md",
     "ReactJS/12. Routing.md",
     "ReactJS/11. custom hooks.md",
-    "Untitled.md",
     "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "ReactJS/13. Recoil.md",
     "ReactJS/16. Lifecycle events.md",
@@ -173,10 +177,6 @@
     "ReactJS/6. Hooks.md",
     "Pasted image 20240422094559.png",
     "Mongo/6. Transactions.md",
-    "NodeJS-ExpressJS/1. Node runtime.md",
-    "NodeJS-ExpressJS/6. express routers.md",
-    "NodeJS-ExpressJS/7. Handling files.md",
-    "NodeJS-ExpressJS/5. Authentication.md",
     "Javascript-The-Definitive-Guide.pdf",
     "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Pasted image 20240420221146.png",
