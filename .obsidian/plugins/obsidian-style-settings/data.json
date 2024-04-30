@@ -11,5 +11,17 @@
   "Appearance-dark@@mod-root-split-background-select-dark": "mod-root-split-background-secondary-dark",
   "Appearance-dark@@background-underlying-select-dark": "background-underlying-secondary-dark",
   "Appearance-dark@@card-layout-open-dark": true,
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker"
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-mauve",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
+  "catppuccin-icon-styles@@ctp-icon-hide": false,
+  "catppuccin-interface-styles@@ctp-bold-folder-title": true,
+  "catppuccin-font-styles@@ctp-bold": "var(--ctp-teal)",
+  "catppuccin-heading-settings@@ctp-page-title": "var(--ctp-mauve)",
+  "catppuccin-heading-settings@@ctp-h1": "var(--ctp-rosewater)",
+  "catppuccin-heading-settings@@ctp-h2": "var(--ctp-rosewater)",
+  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-rosewater)",
+  "catppuccin-heading-settings@@ctp-h4": "var(--ctp-rosewater)",
+  "catppuccin-heading-settings@@ctp-h5": "var(--ctp-rosewater)",
+  "catppuccin-heading-settings@@ctp-h6": "var(--ctp-flamingo)"
 }
