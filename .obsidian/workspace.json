@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSL certificate and its functioning.md",
+                "file": "Typescript/4. generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545
+    "width": 280
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSL certificate and its functioning.md",
+                "file": "Typescript/4. generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSL certificate and its functioning.md",
+                "file": "Typescript/4. generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSL certificate and its functioning.md"
+                "file": "Typescript/4. generics.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "355d7e489a36d196",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
+    "Typescript/2. functions.md",
+    "Typescript/4. generics.md",
+    "JS/9. objects.md",
+    "Typescript/1. init.md",
     "SSL certificate and its functioning.md",
+    "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
     "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "README.md",
     "Javascript-The-Definitive-Guide.pdf",
@@ -157,10 +161,7 @@
     "Typescript/6. Modules.md",
     "Typescript/5. imports - exports.md",
     "Typescript/5. classes and inheritance.md",
-    "Typescript/4. generics.md",
     "Typescript/3. interfaces vs types.md",
-    "Typescript/2. functions.md",
-    "Typescript/1. init.md",
     "Typescript/0. Effective TypeScript notes.md",
     "Typescript/7. type assertions.md",
     "Typescript/8. Index Signatures, keyof assertions and Records.md",
@@ -176,7 +177,6 @@
     "JS/LocalStorage.md",
     "ReactJS/12. Routing.md",
     "ReactJS/11. custom hooks.md",
-    "ReactJS/13. Recoil.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "Pasted image 20240420221146.png",
