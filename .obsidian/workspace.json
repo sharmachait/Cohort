@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/4. generics.md",
+                "file": "Typescript/10. React + Typescript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/4. generics.md",
+                "file": "Typescript/10. React + Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/4. generics.md",
+                "file": "Typescript/10. React + Typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/4. generics.md"
+                "file": "Typescript/10. React + Typescript.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "355d7e489a36d196",
   "lastOpenFiles": [
-    "Typescript/2. functions.md",
+    "Typescript/9. utility types.md",
+    "Typescript/10. React + Typescript.md",
     "Typescript/4. generics.md",
+    "Typescript/2. functions.md",
     "JS/9. objects.md",
     "Typescript/1. init.md",
     "SSL certificate and its functioning.md",
@@ -165,7 +167,6 @@
     "Typescript/0. Effective TypeScript notes.md",
     "Typescript/7. type assertions.md",
     "Typescript/8. Index Signatures, keyof assertions and Records.md",
-    "Typescript/9. react with typescript vite.md",
     "JS/12. error handling.md",
     "Untitled.md",
     "JS/13. Advanced Topic.md",
@@ -176,7 +177,6 @@
     "SocketIO/2. interacting with clients.md",
     "JS/LocalStorage.md",
     "ReactJS/12. Routing.md",
-    "ReactJS/11. custom hooks.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "Pasted image 20240420221146.png",
