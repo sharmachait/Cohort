@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d6c469b81065ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/effective typescript notes/11. type system chapter 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".call",
+                "query": "narrow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 266
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/10. React + Typescript.md",
+                "file": "Typescript/effective typescript notes/11. type system chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/10. React + Typescript.md",
+                "file": "Typescript/effective typescript notes/11. type system chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/10. React + Typescript.md"
+                "file": "Typescript/effective typescript notes/11. type system chapter 2.md"
               }
             }
           }
@@ -146,27 +159,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "355d7e489a36d196",
+  "active": "9d6c469b81065ab9",
   "lastOpenFiles": [
-    "Typescript/9. utility types.md",
-    "Typescript/10. React + Typescript.md",
-    "Typescript/4. generics.md",
     "Typescript/2. functions.md",
-    "JS/9. objects.md",
+    "Typescript/effective typescript notes/11. type system chapter 2.md",
+    "Typescript/effective typescript notes/0. chapter 1.md",
+    "Typescript/effective typescript notes",
+    "Typescript/10. React + Typescript.md",
+    "ReactJS/6. Hooks.md",
+    "Javascript-The-Definitive-Guide.pdf",
+    "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
+    "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
+    "Typescript/7. type assertions.md",
+    "Typescript/4. generics.md",
     "Typescript/1. init.md",
+    "Typescript/8. Index Signatures, keyof assertions and Records.md",
+    "Typescript/5. classes and inheritance.md",
+    "Typescript/5. imports - exports.md",
+    "Typescript/6. Modules.md",
+    "Typescript/9. utility types.md",
+    "JS/9. objects.md",
     "SSL certificate and its functioning.md",
     "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
-    "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "README.md",
-    "Javascript-The-Definitive-Guide.pdf",
-    "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
-    "Typescript/6. Modules.md",
-    "Typescript/5. imports - exports.md",
-    "Typescript/5. classes and inheritance.md",
     "Typescript/3. interfaces vs types.md",
-    "Typescript/0. Effective TypeScript notes.md",
-    "Typescript/7. type assertions.md",
-    "Typescript/8. Index Signatures, keyof assertions and Records.md",
     "JS/12. error handling.md",
     "Untitled.md",
     "JS/13. Advanced Topic.md",
@@ -174,9 +190,6 @@
     "JS/8. arrays.md",
     "NodeJS-ExpressJS/8. env variable.md",
     "Typescript/2. enums.md",
-    "SocketIO/2. interacting with clients.md",
-    "JS/LocalStorage.md",
-    "ReactJS/12. Routing.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "Pasted image 20240420221146.png",
@@ -190,7 +203,6 @@
     "Clean architecture in js",
     "Real Time Systems",
     "Pasted image 20240316145222.png",
-    "Typescript",
     "Pasted image 20240314001419.png",
     "Pasted image 20240302231302.png",
     "Pasted image 20240302231114.png",
