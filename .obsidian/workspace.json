@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/effective typescript notes/11. type system chapter 2.md",
+                "file": "Postgres/1. PG node.js libarary to connect to postgresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/effective typescript notes/11. type system chapter 2.md",
+                "file": "Postgres/1. PG node.js libarary to connect to postgresql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/effective typescript notes/11. type system chapter 2.md",
+                "file": "Postgres/1. PG node.js libarary to connect to postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/effective typescript notes/11. type system chapter 2.md"
+                "file": "Postgres/1. PG node.js libarary to connect to postgresql.md"
               }
             }
           }
@@ -161,11 +161,14 @@
   },
   "active": "9d6c469b81065ab9",
   "lastOpenFiles": [
+    "Typescript/10. React + Typescript.md",
+    "Postgres/1. PG node.js libarary to connect to postgresql.md",
+    "Postgres",
+    "New folder",
     "Typescript/2. functions.md",
     "Typescript/effective typescript notes/11. type system chapter 2.md",
     "Typescript/effective typescript notes/0. chapter 1.md",
     "Typescript/effective typescript notes",
-    "Typescript/10. React + Typescript.md",
     "ReactJS/6. Hooks.md",
     "Javascript-The-Definitive-Guide.pdf",
     "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
@@ -200,8 +203,6 @@
     "Pasted image 20240331015414.png",
     "Excalidraw",
     "WebSocket Server",
-    "Clean architecture in js",
-    "Real Time Systems",
     "Pasted image 20240316145222.png",
     "Pasted image 20240314001419.png",
     "Pasted image 20240302231302.png",
