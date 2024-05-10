@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/effective typescript notes/1. type system chapter 2.md",
+                "file": "Postgres/0. postgreSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/effective typescript notes/1. type system chapter 2.md",
+                "file": "Postgres/0. postgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/effective typescript notes/1. type system chapter 2.md",
+                "file": "Postgres/0. postgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/effective typescript notes/1. type system chapter 2.md"
+                "file": "Postgres/0. postgreSQL.md"
               }
             }
           }
@@ -161,15 +161,23 @@
   },
   "active": "9d6c469b81065ab9",
   "lastOpenFiles": [
+    "Pasted image 20240510161357.png",
+    "Postgres/practice.sql",
+    "Postgres/3. Create table.md",
+    "Postgres/0. postgreSQL.md",
+    "Postgres/4. Insert into table.md",
+    "Postgres/2. Data types.md",
     "Postgres/1. PG node.js libarary to connect to postgresql.md",
     "Typescript/10. React + Typescript.md",
+    "ReactJS/9. Context for user login.md",
+    "ReactJS/6. Hooks.md",
+    "Untitled.md",
+    "Typescript/effective typescript notes/1. type system chapter 2.md",
     "Postgres",
     "New folder",
     "Typescript/2. functions.md",
-    "Typescript/effective typescript notes/1. type system chapter 2.md",
     "Typescript/effective typescript notes/0. chapter 1.md",
     "Typescript/effective typescript notes",
-    "ReactJS/6. Hooks.md",
     "Javascript-The-Definitive-Guide.pdf",
     "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
@@ -186,13 +194,6 @@
     "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
     "README.md",
     "Typescript/3. interfaces vs types.md",
-    "JS/12. error handling.md",
-    "Untitled.md",
-    "JS/13. Advanced Topic.md",
-    "SocketIO/1. introduction.md",
-    "JS/8. arrays.md",
-    "NodeJS-ExpressJS/8. env variable.md",
-    "Typescript/2. enums.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "Pasted image 20240420221146.png",
@@ -202,7 +203,6 @@
     "SocketIO",
     "Pasted image 20240331015414.png",
     "Excalidraw",
-    "WebSocket Server",
     "Pasted image 20240316145222.png",
     "Pasted image 20240314001419.png",
     "Pasted image 20240302231302.png",
