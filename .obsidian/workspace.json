@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "14c7b5d31457db13",
+        "id": "41875cb19b7c6f55",
         "type": "tabs",
         "children": [
           {
-            "id": "355d7e489a36d196",
+            "id": "addb8ab93cea1b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/10. React + Typescript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d6c469b81065ab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postgres/0. postgreSQL.md",
+                "file": "Postgres/Prisma.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres/0. postgreSQL.md",
+                "file": "Postgres/Prisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres/0. postgreSQL.md",
+                "file": "Postgres/Prisma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgres/0. postgreSQL.md"
+                "file": "Postgres/Prisma.md"
               }
             }
           }
@@ -159,19 +146,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d6c469b81065ab9",
+  "active": "addb8ab93cea1b86",
   "lastOpenFiles": [
+    "Postgres/0. postgreSQL.md",
+    "Postgres/Prisma.md",
+    "Postgres/1. PG node.js libarary to connect to postgresql.md",
+    "Untitled.md",
+    "Typescript/1. init.md",
+    "Typescript/10. React + Typescript.md",
+    "JS/10. set and map.md",
+    "JS/11. map, filter, arrow functions.md",
     "Pasted image 20240510161357.png",
     "Postgres/practice.sql",
     "Postgres/3. Create table.md",
-    "Postgres/0. postgreSQL.md",
     "Postgres/4. Insert into table.md",
     "Postgres/2. Data types.md",
-    "Postgres/1. PG node.js libarary to connect to postgresql.md",
-    "Typescript/10. React + Typescript.md",
     "ReactJS/9. Context for user login.md",
     "ReactJS/6. Hooks.md",
-    "Untitled.md",
     "Typescript/effective typescript notes/1. type system chapter 2.md",
     "Postgres",
     "New folder",
@@ -183,7 +174,6 @@
     "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Typescript/7. type assertions.md",
     "Typescript/4. generics.md",
-    "Typescript/1. init.md",
     "Typescript/8. Index Signatures, keyof assertions and Records.md",
     "Typescript/5. classes and inheritance.md",
     "Typescript/5. imports - exports.md",
@@ -192,8 +182,6 @@
     "JS/9. objects.md",
     "SSL certificate and its functioning.md",
     "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
-    "README.md",
-    "Typescript/3. interfaces vs types.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "Pasted image 20240420221146.png",
@@ -206,7 +194,6 @@
     "Pasted image 20240316145222.png",
     "Pasted image 20240314001419.png",
     "Pasted image 20240302231302.png",
-    "Pasted image 20240302231114.png",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
   ]

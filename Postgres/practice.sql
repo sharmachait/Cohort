@@ -107,24 +107,47 @@ CREATE TABLE sales_order(
 );
 
 CREATE TABLE sales_item(
-item_id INTEGER REFERENCES item(id),
-sales_order_id INTEGER REFERENCES sales_order(id),
-quantity INTEGER NOT NULL,
-discount NUMERIC(3,2) NULL DEFAULT 0,
-taxable BOOLEAN NOT NULL DEFAULT FALSE,
-sales_tax_rate NUMERIC(5,2) NOT NULL DEFAULT 0,
-id SERIAL PRIMARY KEY
+	item_id INTEGER REFERENCES item(id),
+	sales_order_id INTEGER REFERENCES sales_order(id),
+	quantity INTEGER NOT NULL,
+	discount NUMERIC(3,2) NULL DEFAULT 0,
+	taxable BOOLEAN NOT NULL DEFAULT FALSE,
+	sales_tax_rate NUMERIC(5,2) NOT NULL DEFAULT 0,
+	id SERIAL PRIMARY KEY
 );
 
+ALTER TABLE sales_item ADD day_of_week VARCHAR(8)
+
+ALTER TABLE sales_item ALTER COLUMN day_of_week SET NOT NULL;
+
+ALTER TABLE sales_item ADD items_id INTEGER REFERENCES item(id) ON DELETE CASCADE;
+
+ALTER TABLE saLes_item DROP COLUMN items_id;
+
+ALTER TABLE sales_item RENAME COLUMN day_of_week TO weekday;
+
+ALTER TABLE sales_item DROP COLUMN weekday;
 
 
+CREATE TABLE transaction_type(
+	name VARCHAR(30) NOT NULL,
+	payment_type VARCHAR(30) NOT NULL,
+	id SERIAL PRIMARY KEY
+);
 
+ALTER TABLE transaction_type RENAME TO transaction;
 
+CREATE INDEX transaction_id ON transaction(name)
 
+CREATE INDEX transaction_id_2 ON transaction(name, payment_type)
 
+TRUNCATE TABLE transaction
+ 
+DROP TABLE transaction
 
+DROP INDEX transaction_id;
 
-
+DROP INDEX transaction_id_2;
 
 
 
