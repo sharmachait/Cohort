@@ -212,3 +212,40 @@ model Todo {
 	userId Int
 }
 ```
+#### one to many with constraints
+```ts
+model User {  
+  id        Int     @id @default(autoincrement())  
+  email     String  @unique  
+  firstName String?  
+  lastName  String?  
+  password  String?  
+  todos     Todo[]  
+}  
+  
+model Todo {  
+  id          Int     @id @default(autoincrement())  
+  title       String  
+  done        Boolean @default(false)  
+  description String?  
+  User        User    @relation(fields: [userId], references: [id])  
+  userId      Int  
+}
+```
+the Todo[] is not added to the user table by the migration, it only adds a foreign key constraint to the Todo table,
+the Todo array is a programming language level construct
+after this we need to apply migrations and regenerate the client
+
+we can select the related properties with the select property while finding todos
+
+```ts
+repositoryProvider.todo.findMany({
+	where:{},
+	select:{
+		id:true,
+		title:true,
+		description:true,
+		User:true
+	}
+})
+```
