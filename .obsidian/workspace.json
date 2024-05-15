@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41875cb19b7c6f55",
+        "id": "4dfd24da4c7e5753",
         "type": "tabs",
         "children": [
           {
-            "id": "addb8ab93cea1b86",
+            "id": "9b95e7704ab6f048",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,12 +146,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "addb8ab93cea1b86",
+  "active": "9b95e7704ab6f048",
   "lastOpenFiles": [
+    "Postgres/Prisma.md",
+    "Postgres/0. postgreSQL.md",
     "Pasted image 20240515093206.png",
     "Pasted image 20240514221251.png",
-    "Postgres/0. postgreSQL.md",
-    "Postgres/Prisma.md",
     "Postgres/1. PG node.js libarary to connect to postgresql.md",
     "Untitled.md",
     "Typescript/1. init.md",
@@ -193,7 +193,6 @@
     "Pasted image 20240331015414.png",
     "Excalidraw",
     "Pasted image 20240316145222.png",
-    "Pasted image 20240314001419.png",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
   ]

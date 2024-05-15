@@ -306,7 +306,7 @@ async function getTodos(){
 }  
 getTodos();
 ```
-##### operator filters
+#### operator filters
 ```ts
 repositoryProvider.user.findFirst({  
         where:{  
@@ -384,8 +384,127 @@ repositoryProvider.user.findFirst({
         },
     }); 
 ```
-##### relation filters
-https://youtu.be/yW6HnMUAWNU?list=PLUtdCvEWBvmYG5fwwN4MqeM-Dl4AJwb0W&t=3087
+#### relation filters
+##### type A
+with
+1. one to many and
+2. many to many relationships
+we can use 3 types of relation filters
+1. every - for queries like users whose all posts are published
+2. some - for queries like users whose some (one or more) posts are published, or for queries like users whose some posts are not published, will return users with at least one un-published post
+3. none - will just serve as a negation of the every query
+the side repository we are using has a list of some other model
+```ts
+const usersWithAllPublishedPosts = await repositoryProvider.user.findMany({
+  where:{
+    posts:{
+      every:{
+        published:true,
+      },
+    },
+  },
+});
+```
+```ts
+const usersWithOnePublished = await repositoryProvider.user.findMany({
+  where:{
+    posts:{
+      some:{
+        published:true,
+      },
+    },
+  },
+});
+
+const usersWithUnPublished = await repositoryProvider.user.findMany({
+  where:{
+    posts:{
+      some:{
+        published:false,
+      },
+    },
+  },
+});
+```
+##### type B
+with
+1. many to one
+2. one to one relationships
+we get the access to the following relation filters
+1. is
+2. isNot
+used in queries like the find all posts where the name of the author is jack
+```ts
+const JacksPosts = repositoryProvider.post.findMany({
+	where:{
+		user:{
+			is:{
+				name:"Jack",
+			},
+		},
+	},
+});
+```
+`isNot` is just the negation of the `is` filter
+we can have multiple relation filters in a single query
+```ts
+const JacksPosts = repositoryProvider.post.findMany({
+  where{
+    user:{
+      is:{
+         name:"Jack"
+      },
+      isNot:{
+        email:{
+          startsWith:"J"
+        }
+      }
+    },
+  },
+  select:{
+    user:true
+  },
+});
+```
+
+| **one to many**  <br>**many to many** | **ever**  <br>**some**  <br>**none** |
+| ------------------------------------- | ------------------------------------ |
+| **many to one**  <br>**one to one**   | **is**  <br>**isNot**                |
+while reading from database we can include (join and) get data from the foreign key using `include` or `select`
+```ts
+const JacksPosts = repositoryProvider.post.findMany({
+  where{
+    user:{
+      is:{
+         name:"Jack"
+      }
+    },
+  },
+  include:{
+    user:true
+  },
+});
+```
+in case of select only the selected properties will be returned
+narrowing down the selected foreign fields
+```ts
+const JacksPosts = repositoryProvider.post.findMany({
+  where{
+    user:{
+      is:{
+         name:"Jack"
+      },
+    },
+  },
+  select:{
+    title:true,
+    user:{
+      name:true,
+      email:true
+    }
+  },
+});
+```
 ### Delete
 ```ts
 async function deleteByUsername(username:string){  
@@ -569,6 +688,5 @@ model Category {
   posts Post[]
 }
 ```
-
-
-
+## Aggregation Functions
+https://youtu.be/yW6HnMUAWNU?list=PLUtdCvEWBvmYG5fwwN4MqeM-Dl4AJwb0W&t=3790
