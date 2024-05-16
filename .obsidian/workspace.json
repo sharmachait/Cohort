@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres/1. select posgtresql.md",
+                "file": "Postgres/4. views.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 200
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres/1. select posgtresql.md",
+                "file": "Postgres/4. views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres/1. select posgtresql.md",
+                "file": "Postgres/4. views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgres/1. select posgtresql.md"
+                "file": "Postgres/4. views.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "9b95e7704ab6f048",
   "lastOpenFiles": [
-    "Postgres/0. postgreSQL setup.md",
     "Postgres/1. select posgtresql.md",
+    "Postgres/4. views.md",
+    "Postgres/0. postgreSQL setup.md",
     "Postgres/2. PG node.js libarary to connect to postgresql.md",
+    "Postgres/3. Prisma.md",
     "Postgres/setup.sql",
     "Postgres/select.sql",
-    "Postgres/Prisma.md",
     "Pasted image 20240515093206.png",
     "Pasted image 20240514221251.png",
     "Untitled.md",
@@ -185,7 +186,6 @@
     "Typescript/6. Modules.md",
     "Typescript/9. utility types.md",
     "JS/9. objects.md",
-    "SSL certificate and its functioning.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "Pasted image 20240420221146.png",
