@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres/Prisma.md",
+                "file": "Postgres/1. select posgtresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres/Prisma.md",
+                "file": "Postgres/1. select posgtresql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres/Prisma.md",
+                "file": "Postgres/1. select posgtresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgres/Prisma.md"
+                "file": "Postgres/1. select posgtresql.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "9b95e7704ab6f048",
   "lastOpenFiles": [
+    "Postgres/0. postgreSQL setup.md",
+    "Postgres/1. select posgtresql.md",
+    "Postgres/2. PG node.js libarary to connect to postgresql.md",
+    "Postgres/setup.sql",
+    "Postgres/select.sql",
     "Postgres/Prisma.md",
-    "Postgres/0. postgreSQL.md",
     "Pasted image 20240515093206.png",
     "Pasted image 20240514221251.png",
-    "Postgres/1. PG node.js libarary to connect to postgresql.md",
     "Untitled.md",
     "Typescript/1. init.md",
     "Typescript/10. React + Typescript.md",
@@ -189,9 +192,7 @@
     "Azure with js",
     "Pasted image 20240331220924.png",
     "Pasted image 20240331220125.png",
-    "SocketIO",
     "Pasted image 20240331015414.png",
-    "Excalidraw",
     "Pasted image 20240316145222.png",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
