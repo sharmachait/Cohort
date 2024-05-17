@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4dfd24da4c7e5753",
+        "id": "810d732331d6de64",
         "type": "tabs",
         "children": [
           {
-            "id": "9b95e7704ab6f048",
+            "id": "4b323b57d138b046",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postgres/4. views.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.51103591918945
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres/4. views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres/4. views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Postgres/4. views.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b95e7704ab6f048",
+  "active": "4b323b57d138b046",
   "lastOpenFiles": [
-    "Postgres/1. select posgtresql.md",
+    "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
+    "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
+    "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
+    "books/Computer Networks.pdf",
+    "books/blockchain.pdf",
+    "books/Javascript-The-Definitive-Guide.pdf",
+    "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
+    "books",
+    "book/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
+    "book/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
+    "book/Javascript-The-Definitive-Guide.pdf",
+    "JS/18. event loop.md",
+    "Pasted image 20240517103643.png",
+    "Pasted image 20240517102630.png",
+    "Pasted image 20240517102518.png",
+    "Pasted image 20240517102329.png",
+    "Pasted image 20240517102125.png",
+    "JS/17. LocalStorage.md",
+    "Postgres/3. Prisma.md",
     "Postgres/4. views.md",
+    "Postgres/1. select posgtresql.md",
     "Postgres/0. postgreSQL setup.md",
     "Postgres/2. PG node.js libarary to connect to postgresql.md",
-    "Postgres/3. Prisma.md",
-    "Postgres/setup.sql",
-    "Postgres/select.sql",
     "Pasted image 20240515093206.png",
     "Pasted image 20240514221251.png",
     "Untitled.md",
@@ -163,37 +171,21 @@
     "JS/10. set and map.md",
     "JS/11. map, filter, arrow functions.md",
     "Pasted image 20240510161357.png",
-    "Postgres/practice.sql",
     "Postgres/3. Create table.md",
     "Postgres/4. Insert into table.md",
     "Postgres/2. Data types.md",
     "ReactJS/9. Context for user login.md",
     "ReactJS/6. Hooks.md",
     "Typescript/effective typescript notes/1. type system chapter 2.md",
-    "Postgres",
-    "New folder",
     "Typescript/2. functions.md",
     "Typescript/effective typescript notes/0. chapter 1.md",
-    "Typescript/effective typescript notes",
-    "Javascript-The-Definitive-Guide.pdf",
-    "Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
-    "javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Typescript/7. type assertions.md",
     "Typescript/4. generics.md",
     "Typescript/8. Index Signatures, keyof assertions and Records.md",
     "Typescript/5. classes and inheritance.md",
     "Typescript/5. imports - exports.md",
-    "Typescript/6. Modules.md",
-    "Typescript/9. utility types.md",
-    "JS/9. objects.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
-    "Pasted image 20240420221146.png",
-    "Azure with js",
-    "Pasted image 20240331220924.png",
-    "Pasted image 20240331220125.png",
-    "Pasted image 20240331015414.png",
-    "Pasted image 20240316145222.png",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
   ]
