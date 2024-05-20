@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres/1. select posgtresql.md",
+                "file": "Postgres/3. Prisma.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "narrow",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres/1. select posgtresql.md",
+                "file": "Postgres/3. Prisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres/1. select posgtresql.md",
+                "file": "Postgres/3. Prisma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgres/1. select posgtresql.md"
+                "file": "Postgres/3. Prisma.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "4058e8cf49541c50",
   "lastOpenFiles": [
+    "Postgres/1. select posgtresql.md",
+    "Postgres/0. postgreSQL setup.md",
+    "Postgres/Views.sql",
     "Postgres/3. Prisma.md",
     "Typescript/5. classes and inheritance.md",
     "Typescript/5. imports - exports.md",
@@ -166,7 +169,6 @@
     "books/Javascript-The-Definitive-Guide.pdf",
     "books",
     "book/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
-    "book/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "JS/18. event loop.md",
     "Pasted image 20240517103643.png",
     "Pasted image 20240517102630.png",
@@ -175,8 +177,6 @@
     "Pasted image 20240517102125.png",
     "JS/17. LocalStorage.md",
     "Postgres/4. views.md",
-    "Postgres/1. select posgtresql.md",
-    "Postgres/0. postgreSQL setup.md",
     "Postgres/2. PG node.js libarary to connect to postgresql.md",
     "Pasted image 20240515093206.png",
     "Pasted image 20240514221251.png",
@@ -191,7 +191,6 @@
     "ReactJS/6. Hooks.md",
     "Typescript/effective typescript notes/1. type system chapter 2.md",
     "Typescript/2. functions.md",
-    "Typescript/effective typescript notes/0. chapter 1.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "hjgjsdfjhd.canvas",

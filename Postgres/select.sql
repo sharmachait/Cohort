@@ -23,7 +23,6 @@ FROM sales_person
 GROUP BY EXTRACT(MONTH FROM birth_date)
 HAVING EXTRACT(MONTH FROM birth_date) <> 12;
 
-
 SELECT EXTRACT(MONTH FROM birth_date) AS Month, COUNT(id) 
 FROM sales_person 
 WHERE EXTRACT(MONTH FROM birth_date) <> 12
