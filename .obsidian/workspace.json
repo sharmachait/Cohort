@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres/3. Prisma.md",
+                "file": "NodeJS-ExpressJS/5. Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres/3. Prisma.md",
+                "file": "NodeJS-ExpressJS/5. Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres/3. Prisma.md",
+                "file": "NodeJS-ExpressJS/5. Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgres/3. Prisma.md"
+                "file": "NodeJS-ExpressJS/5. Authentication.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "4058e8cf49541c50",
   "lastOpenFiles": [
+    "NodeJS-ExpressJS/3. Middlewares.md",
+    "Postgres/3. Prisma.md",
     "Postgres/1. select posgtresql.md",
     "Postgres/0. postgreSQL setup.md",
     "Postgres/Views.sql",
-    "Postgres/3. Prisma.md",
     "Typescript/5. classes and inheritance.md",
     "Typescript/5. imports - exports.md",
     "Typescript/6. Modules.md",
