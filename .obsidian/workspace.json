@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79872812c6eb00ec",
+        "id": "96ee21d6312ced02",
         "type": "tabs",
         "children": [
           {
-            "id": "4058e8cf49541c50",
+            "id": "6b04c7f257bc7399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS-ExpressJS/5. Authentication.md",
+                "file": "Typescript/10. React + Typescript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS-ExpressJS/5. Authentication.md",
+                "file": "Typescript/10. React + Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS-ExpressJS/5. Authentication.md",
+                "file": "Typescript/10. React + Typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS-ExpressJS/5. Authentication.md"
+                "file": "Typescript/10. React + Typescript.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4058e8cf49541c50",
+  "active": "6b04c7f257bc7399",
   "lastOpenFiles": [
+    "ReactJS/17. context+reducer.md",
+    "ReactJS/6. Hooks.md",
+    "ReactJS/9. Context for user login.md",
+    "Cloud-AZ",
+    "Typescript/10. React + Typescript.md",
+    "ReactJS/12. Routing.md",
+    "NodeJS-ExpressJS/5. Authentication.md",
     "NodeJS-ExpressJS/3. Middlewares.md",
     "Postgres/3. Prisma.md",
     "Postgres/1. select posgtresql.md",
@@ -159,7 +166,6 @@
     "Typescript/7. type assertions.md",
     "Typescript/8. Index Signatures, keyof assertions and Records.md",
     "Typescript/9. utility types.md",
-    "Typescript/10. React + Typescript.md",
     "Typescript/1. init.md",
     "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
     "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
@@ -169,7 +175,6 @@
     "books/blockchain.pdf",
     "books/Javascript-The-Definitive-Guide.pdf",
     "books",
-    "book/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
     "JS/18. event loop.md",
     "Pasted image 20240517103643.png",
     "Pasted image 20240517102630.png",
@@ -187,11 +192,6 @@
     "Pasted image 20240510161357.png",
     "Postgres/3. Create table.md",
     "Postgres/4. Insert into table.md",
-    "Postgres/2. Data types.md",
-    "ReactJS/9. Context for user login.md",
-    "ReactJS/6. Hooks.md",
-    "Typescript/effective typescript notes/1. type system chapter 2.md",
-    "Typescript/2. functions.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "hjgjsdfjhd.canvas",
