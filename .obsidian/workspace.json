@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/10. React + Typescript.md",
+                "file": "ReactJS/1. React foundation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/10. React + Typescript.md",
+                "file": "ReactJS/1. React foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/10. React + Typescript.md",
+                "file": "ReactJS/1. React foundation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/10. React + Typescript.md"
+                "file": "ReactJS/1. React foundation.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "6b04c7f257bc7399",
   "lastOpenFiles": [
+    "ReactJS/7. Layout with outlet and router.md",
+    "Typescript/10. React + Typescript.md",
     "ReactJS/17. context+reducer.md",
     "ReactJS/6. Hooks.md",
     "ReactJS/9. Context for user login.md",
     "Cloud-AZ",
-    "Typescript/10. React + Typescript.md",
     "ReactJS/12. Routing.md",
     "NodeJS-ExpressJS/5. Authentication.md",
     "NodeJS-ExpressJS/3. Middlewares.md",
@@ -191,7 +192,6 @@
     "JS/11. map, filter, arrow functions.md",
     "Pasted image 20240510161357.png",
     "Postgres/3. Create table.md",
-    "Postgres/4. Insert into table.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "hjgjsdfjhd.canvas",
