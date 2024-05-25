@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "96ee21d6312ced02",
+        "id": "0159d560134d006f",
         "type": "tabs",
         "children": [
           {
-            "id": "6b04c7f257bc7399",
+            "id": "22b59b44c914808e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReactJS/1. React foundation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactJS/1. React foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReactJS/1. React foundation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ReactJS/1. React foundation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +138,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b04c7f257bc7399",
+  "active": "22b59b44c914808e",
   "lastOpenFiles": [
+    "Cloudflare serverles/1. init.md",
+    "ReactJS/1. React foundation.md",
     "ReactJS/7. Layout with outlet and router.md",
     "Typescript/10. React + Typescript.md",
     "ReactJS/17. context+reducer.md",
     "ReactJS/6. Hooks.md",
     "ReactJS/9. Context for user login.md",
-    "Cloud-AZ",
+    "Cloudflare serverles",
     "ReactJS/12. Routing.md",
     "NodeJS-ExpressJS/5. Authentication.md",
     "NodeJS-ExpressJS/3. Middlewares.md",
@@ -189,9 +183,7 @@
     "Pasted image 20240514221251.png",
     "Untitled.md",
     "JS/10. set and map.md",
-    "JS/11. map, filter, arrow functions.md",
     "Pasted image 20240510161357.png",
-    "Postgres/3. Create table.md",
     "Pasted image 20240423075913.png",
     "Pasted image 20240422094559.png",
     "hjgjsdfjhd.canvas",
