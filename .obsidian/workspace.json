@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres/3. Prisma.md",
+                "file": "code crafters/git- ad hock notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres/3. Prisma.md",
+                "file": "code crafters/git- ad hock notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres/3. Prisma.md",
+                "file": "code crafters/git- ad hock notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgres/3. Prisma.md"
+                "file": "code crafters/git- ad hock notes.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "3319acc03d60550a",
   "lastOpenFiles": [
+    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+    "Untitled.md",
+    "Postgres/3. Prisma.md",
     "Postgres/1. select posgtresql.md",
     "Postgres/0. postgreSQL setup.md",
     "Postgres/4. views.md",
     "Postgres/5. functions.md",
-    "code crafters/Ad git project.md",
+    "code crafters/git- ad hock notes.md",
     "ReactJS/12. Routing.md",
     "code crafters",
     "Typescript/10. React + Typescript.md",
@@ -165,7 +168,6 @@
     "Cloudflare serverles",
     "NodeJS-ExpressJS/5. Authentication.md",
     "NodeJS-ExpressJS/3. Middlewares.md",
-    "Postgres/3. Prisma.md",
     "Postgres/Views.sql",
     "Typescript/5. classes and inheritance.md",
     "Typescript/5. imports - exports.md",
@@ -187,8 +189,6 @@
     "Pasted image 20240517102518.png",
     "Pasted image 20240517102329.png",
     "Pasted image 20240517102125.png",
-    "JS/17. LocalStorage.md",
-    "Postgres/2. PG node.js libarary to connect to postgresql.md",
     "Pasted image 20240515093206.png",
     "Pasted image 20240514221251.png",
     "Pasted image 20240510161357.png",
