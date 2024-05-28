@@ -24,8 +24,7 @@ The `process.argv` property returns an array containing the command-line argum
 - Commits 
     - These are used to store commit data.
     - The information stored can include things like the commit message, author, committer, parent commit(s) and more.
-### git plumbing commands
-1. git cat-file 
+### git cat-file
 ```bash
 git cat-file -t 4c5b58f323d7b459664b5d3fb9587048bb0296deblob$
 git cat-file -s 4c5b58f323d7b459664b5d3fb9587048bb0296de9$ 
@@ -66,7 +65,19 @@ each entry includes
 		- `100644` (regular file)
 		- `100755` (executable file)
 		- `120000` (symbolic link)
-	- for dirs the value is `040000`
+```ts
+export function getFileMode(stats: fs.Stats): string {  
+  if (stats.isSymbolicLink()) {  
+    return '120000'; // symbolic link  
+  } else if (stats.mode & 0o111) {  
+    return '100755'; // executable file  
+  } else {  
+    return '100644'; // regular file  
+  }  
+}
+getFileMode(fs.statSync(filePath));
+```
+	- for dirs the value is `40000`
 
 - For example, if you had a directory structure like this:
 ```
@@ -80,8 +91,8 @@ each entry includes
 ```
 The entries in the tree object would look like this:, this is also the output of the git ls-tree command
 ```
-  040000 dir1 <tree_sha_1>
-  040000 dir2 <tree_sha_2>
+  40000 dir1 <tree_sha_1>
+  40000 dir2 <tree_sha_2>
   100644 file1 <blob_sha_1>
 ```
 dir1 and dir 2 are tree objects as well and if we inspect them we will find the files in them
@@ -89,6 +100,8 @@ the output is alphabetically sorted
 > gist ls-tree --name-only <tree_sha>
 
 this outputs only the name of the files
+
+git cat-file -p tree_sha
 the format of the tree object file is like so
 ```
 tree <size>\0
@@ -96,3 +109,10 @@ tree <size>\0
 <mode> <name>\0<sha>
 ```
 the actual out put doesnt have a new line character
+
+### git write-tree
+creates a tree object from the current state of the staging area
+outputs the sha of the tree object
+iterate over the folder structure in the staging area
+- if the entry is a file create a blob object and record its sha
+- if directory create a tree object and record its sha
