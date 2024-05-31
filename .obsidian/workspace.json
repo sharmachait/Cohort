@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebSockets/4. securing websockets.md",
+                "file": "JS/18. event loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebSockets/4. securing websockets.md",
+                "file": "JS/18. event loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebSockets/4. securing websockets.md",
+                "file": "JS/18. event loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebSockets/4. securing websockets.md"
+                "file": "JS/18. event loop.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "26ce0c528a38af03",
   "lastOpenFiles": [
-    "WebSockets/3. scaling websockets.md",
+    "Pasted image 20240531123544.png",
+    "JS/3. Promises.md",
+    "Pasted image 20240531122742.png",
+    "Pasted image 20240531121131.png",
+    "JS/2. Async.md",
+    "JS/18. event loop.md",
+    "JS/13. Advanced Topic.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "JS/10. set and map.md",
+    "JS/7. strings.md",
     "WebSockets/4. securing websockets.md",
+    "WebSockets/3. scaling websockets.md",
     "Pasted image 20240530230601.png",
     "Excalidraw/Drawing 2024-05-30 22.56.00.excalidraw.md",
     "Untitled.canvas",
@@ -169,16 +179,8 @@
     "Typescript/10. React + Typescript.md",
     "Cloudflare serverles/1. init.md",
     "ReactJS/1. React foundation.md",
-    "ReactJS/7. Layout with outlet and router.md",
-    "ReactJS/17. context+reducer.md",
-    "ReactJS/6. Hooks.md",
-    "ReactJS/9. Context for user login.md",
     "Cloudflare serverles",
-    "NodeJS-ExpressJS/5. Authentication.md",
-    "NodeJS-ExpressJS/3. Middlewares.md",
     "Postgres and prisma/Views.sql",
-    "Typescript/5. classes and inheritance.md",
-    "Typescript/5. imports - exports.md",
     "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
     "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
@@ -193,8 +195,6 @@
     "Pasted image 20240517102125.png",
     "Pasted image 20240515093206.png",
     "Pasted image 20240514221251.png",
-    "Pasted image 20240510161357.png",
-    "Pasted image 20240423075913.png",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
   ]
