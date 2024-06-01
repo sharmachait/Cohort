@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/18. event loop.md",
+                "file": "code crafters/git ad hoc notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/18. event loop.md",
+                "file": "code crafters/git ad hoc notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/18. event loop.md",
+                "file": "code crafters/git ad hoc notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/18. event loop.md"
+                "file": "code crafters/git ad hoc notes.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26ce0c528a38af03",
+  "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
+    "JS/18. event loop.md",
     "Pasted image 20240531123544.png",
     "JS/3. Promises.md",
     "Pasted image 20240531122742.png",
     "Pasted image 20240531121131.png",
     "JS/2. Async.md",
-    "JS/18. event loop.md",
     "JS/13. Advanced Topic.md",
     "JS/1. Javascript high level, dates and json.md",
     "JS/10. set and map.md",
@@ -166,7 +166,7 @@
     "SSL certificate and its functioning.md",
     "WebSockets/1. introduction.md",
     "WebSockets/2. interacting with clients.md",
-    "code crafters/git- ad hock notes.md",
+    "code crafters/git ad hoc notes.md",
     "Postgres and prisma/3. Prisma.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "Untitled.md",
@@ -194,7 +194,6 @@
     "Pasted image 20240517102329.png",
     "Pasted image 20240517102125.png",
     "Pasted image 20240515093206.png",
-    "Pasted image 20240514221251.png",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
   ]
