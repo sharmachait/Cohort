@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code crafters/git ad hoc notes.md",
+                "file": "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code crafters/git ad hoc notes.md",
+                "file": "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code crafters/git ad hoc notes.md",
+                "file": "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code crafters/git ad hoc notes.md"
+                "file": "NodeJS-ExpressJS/4. Zod(input validation libraries).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,9 +147,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "26ce0c528a38af03",
   "lastOpenFiles": [
+    "Typescript/11. zod + typescript.md",
+    "JS/19 execution context.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
+    "Typescript/9. utility types.md",
     "JS/18. event loop.md",
+    "Typescript/Untitled.md",
+    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+    "JS/15. Shallow VS Deep copy.md",
+    "JS/16. Modules - imports - exports.md",
+    "JS/17. LocalStorage.md",
+    "Typescript/4. generics.md",
+    "Cloudflare serverles/1. init.md",
+    "code crafters/git ad hoc notes.md",
+    "JS/8. arrays.md",
+    "Pasted image 20240601195714.png",
     "Pasted image 20240531123544.png",
     "JS/3. Promises.md",
     "Pasted image 20240531122742.png",
@@ -166,19 +181,7 @@
     "SSL certificate and its functioning.md",
     "WebSockets/1. introduction.md",
     "WebSockets/2. interacting with clients.md",
-    "code crafters/git ad hoc notes.md",
-    "Postgres and prisma/3. Prisma.md",
-    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
-    "Untitled.md",
-    "Postgres and prisma/1. select posgtresql.md",
-    "Postgres and prisma/0. postgreSQL setup.md",
-    "Postgres/4. views.md",
-    "Postgres/5. functions.md",
-    "ReactJS/12. Routing.md",
     "code crafters",
-    "Typescript/10. React + Typescript.md",
-    "Cloudflare serverles/1. init.md",
-    "ReactJS/1. React foundation.md",
     "Cloudflare serverles",
     "Postgres and prisma/Views.sql",
     "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
@@ -193,7 +196,6 @@
     "Pasted image 20240517102518.png",
     "Pasted image 20240517102329.png",
     "Pasted image 20240517102125.png",
-    "Pasted image 20240515093206.png",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
   ]

@@ -416,3 +416,45 @@ the git-commit tree  command takes in a parent sha a the current sha and a messa
 like so
 
 ### git clone
+
+git uses the pkt-line format - every line or chunk of data is prefixed with a four hex-character sequence that represents the length of the data and the prefix if the sequence is 0000, that's a _flush packet_ and it indicates the end of that chunk of data. If the sequence is 0001, that's a _delimiter packet_ and it's used in protocol v2 to delimit sections of that chunk of data.
+
+git protocol for server communication
+Clients MUST strip a trailing `/`, if present, from the user supplied `$GIT_URL` string to prevent empty path tokens (`//`) from appearing in any URL sent to a server. Compatible clients MUST expand `$GIT_URL/info/refs` as `foo/info/refs` and not `foo//info/refs`.
+
+dumb protocol example
+```
+$GIT_URL:     http://example.com:8080/git/repo.git
+URL request:  http://example.com:8080/git/repo.git/objects/d0/49f6c27a2244e12041955e262a404c7faba355
+```
+
+smart protocol
+```
+$GIT_URL:     http://example.com/daemon.cgi?svc=git&q=
+URL request:  http://example.com/daemon.cgi?svc=git&q=/info/refs&service=git-receive-pack
+```
+
+```js
+let uploadPackUri = uri + '/info/refs?service=git-upload-pack';// to receive refs info  
+let receivePackUri = uri + '/info/refs?service=git-receive-pack'; //to upload
+```
+
+we can make http requests to these uris
+
+data is in the packet file format
+##### The pkt-line format
+- a length-prefixed packet format for sending metadata like commit hashes. 
+- Each “line” has a 4-digit hex length (plus 4 to include the length of the length) and then length less 4 bytes of data. 
+- Each line also generally has an `LF` byte at the end. 
+- The special length `0000` is used as a section marker and at the end of the data.
+
+For example, here’s the response GitHub gives to a `git-receive-pack` GET request. Note that the additional line breaks and indentation are not part of the real data:
+
+```
+    001f# service=git-receive-pack\n
+    0000
+    00b20000000000000000000000000000000000000000 capabilities^{}\x00
+        report-status delete-refs side-band-64k quiet atomic ofs-delta
+        agent=git/2.9.3~peff-merge-upstream-2-9-1788-gef730f7\n
+    0000
+```
