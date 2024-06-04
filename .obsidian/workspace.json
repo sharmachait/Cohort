@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e7c87b4dd9cf253",
+        "id": "24392e96c731df40",
         "type": "tabs",
         "children": [
           {
-            "id": "26ce0c528a38af03",
+            "id": "1f3b18d603dd99cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+                "file": "JS/4. Conversions in JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+                "file": "JS/4. Conversions in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+                "file": "JS/4. Conversions in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS-ExpressJS/4. Zod(input validation libraries).md"
+                "file": "JS/4. Conversions in JS.md"
               }
             }
           }
@@ -147,55 +148,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26ce0c528a38af03",
+  "active": "f644650bc4c0975f",
   "lastOpenFiles": [
+    "JS/7. strings.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "Cloudflare serverles/1. init.md",
+    "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
+    "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
+    "books/Javascript-The-Definitive-Guide.pdf",
+    "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
+    "books/Computer Networks.pdf",
+    "books/blockchain.pdf",
+    "SSL certificate and its functioning.md",
+    "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
+    "Pasted image 20240531123544.png",
+    "README.md",
+    "Pasted image 20240331220924.png",
+    "Pasted image 20240217135208.png",
+    "Pasted image 20240517102630.png",
+    "Pasted image 20240423075913.png",
+    "Pasted image 20240314001419.png",
+    "Pasted image 20240422094559.png",
+    "Pasted image 20240517102125.png",
+    "Pasted image 20240517103643.png",
+    "WebSockets/4. securing websockets.md",
+    "WebSockets/2. interacting with clients.md",
+    "WebSockets/1. introduction.md",
+    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "Typescript/11. zod + typescript.md",
     "JS/19 execution context.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
     "Typescript/9. utility types.md",
     "JS/18. event loop.md",
     "Typescript/Untitled.md",
-    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "JS/15. Shallow VS Deep copy.md",
     "JS/16. Modules - imports - exports.md",
     "JS/17. LocalStorage.md",
     "Typescript/4. generics.md",
-    "Cloudflare serverles/1. init.md",
     "code crafters/git ad hoc notes.md",
     "JS/8. arrays.md",
     "Pasted image 20240601195714.png",
-    "Pasted image 20240531123544.png",
     "JS/3. Promises.md",
-    "Pasted image 20240531122742.png",
-    "Pasted image 20240531121131.png",
     "JS/2. Async.md",
     "JS/13. Advanced Topic.md",
-    "JS/1. Javascript high level, dates and json.md",
     "JS/10. set and map.md",
-    "JS/7. strings.md",
-    "WebSockets/4. securing websockets.md",
-    "WebSockets/3. scaling websockets.md",
-    "Pasted image 20240530230601.png",
-    "Excalidraw/Drawing 2024-05-30 22.56.00.excalidraw.md",
     "Untitled.canvas",
-    "SSL certificate and its functioning.md",
-    "WebSockets/1. introduction.md",
-    "WebSockets/2. interacting with clients.md",
     "code crafters",
     "Cloudflare serverles",
     "Postgres and prisma/Views.sql",
-    "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
-    "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
-    "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
-    "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
-    "books/Computer Networks.pdf",
-    "books/blockchain.pdf",
-    "books/Javascript-The-Definitive-Guide.pdf",
-    "Pasted image 20240517103643.png",
-    "Pasted image 20240517102630.png",
-    "Pasted image 20240517102518.png",
-    "Pasted image 20240517102329.png",
-    "Pasted image 20240517102125.png",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
   ]
