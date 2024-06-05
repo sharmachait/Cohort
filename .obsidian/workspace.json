@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/4. Conversions in JS.md",
+                "file": "Postgres and prisma/1. select posgtresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/4. Conversions in JS.md",
+                "file": "Postgres and prisma/1. select posgtresql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/4. Conversions in JS.md",
+                "file": "Postgres and prisma/1. select posgtresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/4. Conversions in JS.md"
+                "file": "Postgres and prisma/1. select posgtresql.md"
               }
             }
           }
@@ -148,8 +147,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f644650bc4c0975f",
+  "active": "1f3b18d603dd99cf",
   "lastOpenFiles": [
+    "Postgres and prisma/0. postgreSQL setup.md",
+    "Postgres and prisma/3. Prisma.md",
+    "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
+    "Postgres and prisma/1. select posgtresql.md",
+    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+    "JS/18. event loop.md",
+    "JS/4. Conversions in JS.md",
     "JS/7. strings.md",
     "JS/1. Javascript high level, dates and json.md",
     "Cloudflare serverles/1. init.md",
@@ -174,12 +180,10 @@
     "WebSockets/4. securing websockets.md",
     "WebSockets/2. interacting with clients.md",
     "WebSockets/1. introduction.md",
-    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "Typescript/11. zod + typescript.md",
     "JS/19 execution context.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
     "Typescript/9. utility types.md",
-    "JS/18. event loop.md",
     "Typescript/Untitled.md",
     "JS/15. Shallow VS Deep copy.md",
     "JS/16. Modules - imports - exports.md",
@@ -188,10 +192,6 @@
     "code crafters/git ad hoc notes.md",
     "JS/8. arrays.md",
     "Pasted image 20240601195714.png",
-    "JS/3. Promises.md",
-    "JS/2. Async.md",
-    "JS/13. Advanced Topic.md",
-    "JS/10. set and map.md",
     "Untitled.canvas",
     "code crafters",
     "Cloudflare serverles",
