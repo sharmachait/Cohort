@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres and prisma/1. select posgtresql.md",
+                "file": "NodeJS-ExpressJS/1. Node runtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres and prisma/1. select posgtresql.md",
+                "file": "NodeJS-ExpressJS/1. Node runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres and prisma/1. select posgtresql.md",
+                "file": "NodeJS-ExpressJS/1. Node runtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgres and prisma/1. select posgtresql.md"
+                "file": "NodeJS-ExpressJS/1. Node runtime.md"
               }
             }
           }
@@ -147,14 +147,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f3b18d603dd99cf",
+  "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
+    "Postgres and prisma/Basic postgres.md",
     "Postgres and prisma/0. postgreSQL setup.md",
+    "Azure with js/certificate management.md",
+    "Azure with js/NGINX.md",
+    "Pasted image 20240608131416.png",
+    "Pasted image 20240608130930.png",
+    "Pasted image 20240608123614.png",
+    "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
+    "Azure with js/SSL certificate and its functioning.md",
+    "JS/18. event loop.md",
+    "JS/3. Promises.md",
+    "code crafters/git ad hoc notes.md",
+    "Postgres and prisma/1. select posgtresql.md",
+    "Pasted image 20240606120107.png",
     "Postgres and prisma/3. Prisma.md",
     "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
-    "Postgres and prisma/1. select posgtresql.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
-    "JS/18. event loop.md",
     "JS/4. Conversions in JS.md",
     "JS/7. strings.md",
     "JS/1. Javascript high level, dates and json.md",
@@ -165,7 +176,6 @@
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "books/Computer Networks.pdf",
     "books/blockchain.pdf",
-    "SSL certificate and its functioning.md",
     "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
     "Pasted image 20240531123544.png",
     "README.md",
@@ -174,9 +184,6 @@
     "Pasted image 20240517102630.png",
     "Pasted image 20240423075913.png",
     "Pasted image 20240314001419.png",
-    "Pasted image 20240422094559.png",
-    "Pasted image 20240517102125.png",
-    "Pasted image 20240517103643.png",
     "WebSockets/4. securing websockets.md",
     "WebSockets/2. interacting with clients.md",
     "WebSockets/1. introduction.md",
@@ -184,14 +191,6 @@
     "JS/19 execution context.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
     "Typescript/9. utility types.md",
-    "Typescript/Untitled.md",
-    "JS/15. Shallow VS Deep copy.md",
-    "JS/16. Modules - imports - exports.md",
-    "JS/17. LocalStorage.md",
-    "Typescript/4. generics.md",
-    "code crafters/git ad hoc notes.md",
-    "JS/8. arrays.md",
-    "Pasted image 20240601195714.png",
     "Untitled.canvas",
     "code crafters",
     "Cloudflare serverles",
