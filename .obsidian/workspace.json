@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md",
+                "file": "Next.js/01. Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".cookie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md",
+                "file": "Next.js/01. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md",
+                "file": "Next.js/01. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md"
+                "file": "Next.js/01. Intro.md"
               }
             }
           }
@@ -147,10 +147,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "1f3b18d603dd99cf",
   "lastOpenFiles": [
+    "Typescript/1. init.md",
+    "Next.js/01. Intro.md",
+    "Pasted image 20240609172413.png",
+    "Postgres and prisma/1. select posgtresql.md",
+    "Next.js",
     "Postgres and prisma/Basic postgres.md",
+    "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
+    "Postgres and prisma/3. Prisma.md",
     "Postgres and prisma/0. postgreSQL setup.md",
+    "NodeJS-ExpressJS/5. Authentication.md",
+    "WebSockets/2. interacting with clients.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
     "Azure with js/certificate management.md",
     "Azure with js/NGINX.md",
     "Pasted image 20240608131416.png",
@@ -161,10 +171,7 @@
     "JS/18. event loop.md",
     "JS/3. Promises.md",
     "code crafters/git ad hoc notes.md",
-    "Postgres and prisma/1. select posgtresql.md",
     "Pasted image 20240606120107.png",
-    "Postgres and prisma/3. Prisma.md",
-    "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "JS/4. Conversions in JS.md",
     "JS/7. strings.md",
@@ -183,18 +190,12 @@
     "Pasted image 20240217135208.png",
     "Pasted image 20240517102630.png",
     "Pasted image 20240423075913.png",
-    "Pasted image 20240314001419.png",
     "WebSockets/4. securing websockets.md",
-    "WebSockets/2. interacting with clients.md",
     "WebSockets/1. introduction.md",
     "Typescript/11. zod + typescript.md",
-    "JS/19 execution context.md",
-    "NodeJS-ExpressJS/1. Node runtime.md",
-    "Typescript/9. utility types.md",
     "Untitled.canvas",
     "code crafters",
     "Cloudflare serverles",
-    "Postgres and prisma/Views.sql",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
   ]
