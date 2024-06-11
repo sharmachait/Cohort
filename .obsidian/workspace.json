@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24392e96c731df40",
+        "id": "aa4dc7133c289e8b",
         "type": "tabs",
         "children": [
           {
-            "id": "1f3b18d603dd99cf",
+            "id": "fc0599fbe740248b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f3b18d603dd99cf",
+  "active": "fc0599fbe740248b",
   "lastOpenFiles": [
+    "Pasted image 20240611074417.png",
     "Pasted image 20240610111606.png",
     "Pasted image 20240610111327.png",
     "Typescript/1. init.md",
@@ -190,7 +191,6 @@
     "README.md",
     "Pasted image 20240331220924.png",
     "Pasted image 20240217135208.png",
-    "Pasted image 20240517102630.png",
     "WebSockets/4. securing websockets.md",
     "WebSockets/1. introduction.md",
     "Untitled.canvas",
