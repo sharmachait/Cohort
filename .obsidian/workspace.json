@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/01. Intro.md",
+                "file": "WebSockets/3. scaling websockets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/01. Intro.md",
+                "file": "WebSockets/3. scaling websockets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/01. Intro.md",
+                "file": "WebSockets/3. scaling websockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/01. Intro.md"
+                "file": "WebSockets/3. scaling websockets.md"
               }
             }
           }
@@ -147,19 +147,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "fc0599fbe740248b",
   "lastOpenFiles": [
+    "Next.js/01. Intro.md",
+    "WebSockets/3. scaling websockets.md",
+    "Pasted image 20240613120514.png",
+    "Pasted image 20240613120422.png",
+    "Postgres and prisma/3. Prisma.md",
+    "Pasted image 20240613115428.png",
     "Pasted image 20240611074417.png",
     "Pasted image 20240610111606.png",
     "Pasted image 20240610111327.png",
     "Typescript/1. init.md",
-    "Next.js/01. Intro.md",
     "Pasted image 20240609172413.png",
     "Postgres and prisma/1. select posgtresql.md",
     "Next.js",
     "Postgres and prisma/Basic postgres.md",
     "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
-    "Postgres and prisma/3. Prisma.md",
     "Postgres and prisma/0. postgreSQL setup.md",
     "NodeJS-ExpressJS/5. Authentication.md",
     "WebSockets/2. interacting with clients.md",
@@ -174,7 +178,6 @@
     "JS/18. event loop.md",
     "JS/3. Promises.md",
     "code crafters/git ad hoc notes.md",
-    "Pasted image 20240606120107.png",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "JS/4. Conversions in JS.md",
     "JS/7. strings.md",
@@ -187,10 +190,7 @@
     "books/Computer Networks.pdf",
     "books/blockchain.pdf",
     "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
-    "Pasted image 20240531123544.png",
     "README.md",
-    "Pasted image 20240331220924.png",
-    "Pasted image 20240217135208.png",
     "WebSockets/4. securing websockets.md",
     "WebSockets/1. introduction.md",
     "Untitled.canvas",
