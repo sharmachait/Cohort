@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebSockets/3. scaling websockets.md",
+                "file": "NodeJS-ExpressJS/10. Monorepos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebSockets/3. scaling websockets.md",
+                "file": "NodeJS-ExpressJS/10. Monorepos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebSockets/3. scaling websockets.md",
+                "file": "NodeJS-ExpressJS/10. Monorepos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebSockets/3. scaling websockets.md"
+                "file": "NodeJS-ExpressJS/10. Monorepos.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "fc0599fbe740248b",
   "lastOpenFiles": [
-    "Next.js/01. Intro.md",
+    "Pasted image 20240615151114.png",
+    "code crafters/redis in java.md",
+    "NodeJS-ExpressJS/10. Monorepos.md",
     "WebSockets/3. scaling websockets.md",
+    "Next.js/01. Intro.md",
     "Pasted image 20240613120514.png",
     "Pasted image 20240613120422.png",
     "Postgres and prisma/3. Prisma.md",
@@ -190,9 +193,6 @@
     "books/Computer Networks.pdf",
     "books/blockchain.pdf",
     "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
-    "README.md",
-    "WebSockets/4. securing websockets.md",
-    "WebSockets/1. introduction.md",
     "Untitled.canvas",
     "code crafters",
     "Cloudflare serverles",
