@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS-ExpressJS/10. Monorepos.md",
+                "file": "Postgres and prisma/Basic postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.51103591918945
+    "width": 377.5110321044922
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS-ExpressJS/10. Monorepos.md",
+                "file": "Postgres and prisma/Basic postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS-ExpressJS/10. Monorepos.md",
+                "file": "Postgres and prisma/Basic postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS-ExpressJS/10. Monorepos.md"
+                "file": "Postgres and prisma/Basic postgres.md"
               }
             }
           }
@@ -147,46 +147,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc0599fbe740248b",
+  "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
+    "Postgres and prisma/1. select posgtresql.md",
+    "Postgres and prisma/Basic postgres.md",
+    "Postgres and prisma/0. postgreSQL setup.md",
+    "Next.js/03. Next Auth.md",
+    "Next.js/02. Monorepos.md",
+    "Pasted image 20240616231413.png",
+    "Pasted image 20240616230725.png",
+    "Pasted image 20240616230555.png",
+    "Untitled.md",
+    "Pasted image 20240616223525.png",
+    "Pasted image 20240616192309.png",
+    "JS/3. Promises.md",
+    "JS/2. Async.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "code crafters/redis in java.md",
+    "Pasted image 20240616174103.png",
+    "Pasted image 20240616174051.png",
     "Pasted image 20240616170220.png",
     "code crafters/git ad hoc notes.md",
-    "NodeJS-ExpressJS/10. Monorepos.md",
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Pasted image 20240616133712.png",
     "Typescript/1. init.md",
     "JS/8. arrays.md",
     "Pasted image 20240615151114.png",
-    "code crafters/redis in java.md",
     "WebSockets/3. scaling websockets.md",
     "Next.js/01. Intro.md",
-    "Pasted image 20240613120514.png",
-    "Pasted image 20240613120422.png",
     "Postgres and prisma/3. Prisma.md",
-    "Pasted image 20240613115428.png",
-    "Pasted image 20240611074417.png",
-    "Pasted image 20240610111606.png",
-    "Pasted image 20240610111327.png",
-    "Pasted image 20240609172413.png",
-    "Postgres and prisma/1. select posgtresql.md",
     "Next.js",
-    "Postgres and prisma/Basic postgres.md",
     "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
-    "Postgres and prisma/0. postgreSQL setup.md",
     "NodeJS-ExpressJS/5. Authentication.md",
     "WebSockets/2. interacting with clients.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
     "Azure with js/certificate management.md",
     "Azure with js/NGINX.md",
-    "Pasted image 20240608131416.png",
     "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
     "Azure with js/SSL certificate and its functioning.md",
     "JS/18. event loop.md",
-    "JS/3. Promises.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
-    "JS/4. Conversions in JS.md",
-    "JS/7. strings.md",
-    "JS/1. Javascript high level, dates and json.md",
     "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
     "books/Javascript-The-Definitive-Guide.pdf",
