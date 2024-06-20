@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa4dc7133c289e8b",
+        "id": "2fd1cafad979c449",
         "type": "tabs",
         "children": [
           {
-            "id": "fc0599fbe740248b",
+            "id": "9887b0ea19ca9277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/03. cookies.md",
+                "file": "Next.js/03. Cookies.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5110321044922
+    "width": 200
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/03. cookies.md",
+                "file": "Next.js/03. Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/03. cookies.md",
+                "file": "Next.js/03. Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/03. cookies.md"
+                "file": "Next.js/03. Cookies.md"
               }
             }
           }
@@ -147,8 +147,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc0599fbe740248b",
+  "active": "9887b0ea19ca9277",
   "lastOpenFiles": [
+    "Next.js/01. Intro.md",
+    "Next.js/03. Cookies.md",
+    "Next.js/04. Backend.md",
+    "Next.js/06. Server actions.md",
+    "Next.js/05. data fetching.md",
+    "git2.py",
+    "git.py",
     "NodeJS-ExpressJS/10. deploying npm packages.md",
     "Typescript/1. init.md",
     "Next.js/02. Monorepos.md",
@@ -157,7 +164,6 @@
     "Postgres and prisma/Basic postgres.md",
     "Postgres and prisma/0. postgreSQL setup.md",
     "Postgres and prisma/1. select posgtresql.md",
-    "Next.js/03. cookies.md",
     "Pasted image 20240616231413.png",
     "Pasted image 20240616230725.png",
     "Pasted image 20240616230555.png",
@@ -177,16 +183,12 @@
     "JS/8. arrays.md",
     "Pasted image 20240615151114.png",
     "WebSockets/3. scaling websockets.md",
-    "Next.js/01. Intro.md",
     "Postgres and prisma/3. Prisma.md",
     "Next.js",
     "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
     "NodeJS-ExpressJS/5. Authentication.md",
     "WebSockets/2. interacting with clients.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
-    "Azure with js/certificate management.md",
-    "Azure with js/NGINX.md",
-    "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
     "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
     "books/Javascript-The-Definitive-Guide.pdf",
@@ -194,8 +196,6 @@
     "books/blockchain.pdf",
     "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
     "Untitled.canvas",
-    "code crafters",
-    "Cloudflare serverles",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
   ]
