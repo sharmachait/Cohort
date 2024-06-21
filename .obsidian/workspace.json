@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/03. Cookies.md",
+                "file": "Next.js/01. Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 531.5110321044922
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/03. Cookies.md",
+                "file": "Next.js/01. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/03. Cookies.md",
+                "file": "Next.js/01. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/03. Cookies.md"
+                "file": "Next.js/01. Intro.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "9887b0ea19ca9277",
   "lastOpenFiles": [
+    "Next.js/04. Backend.md",
     "Next.js/01. Intro.md",
     "Next.js/03. Cookies.md",
-    "Next.js/04. Backend.md",
     "Next.js/06. Server actions.md",
     "Next.js/05. data fetching.md",
     "git2.py",
