@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/01. Intro.md",
+                "file": "Next.js/07. Next Auth.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5110321044922
+    "width": 261.5110321044922
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/01. Intro.md",
+                "file": "Next.js/07. Next Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/01. Intro.md",
+                "file": "Next.js/07. Next Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/01. Intro.md"
+                "file": "Next.js/07. Next Auth.md"
               }
             }
           }
@@ -150,7 +150,11 @@
   "active": "9887b0ea19ca9277",
   "lastOpenFiles": [
     "Next.js/04. Backend.md",
+    "Next.js/07. Next Auth.md",
     "Next.js/01. Intro.md",
+    "Pasted image 20240622000003.png",
+    "JS/4. Conversions in JS.md",
+    "JS/3. Promises.md",
     "Next.js/03. Cookies.md",
     "Next.js/06. Server actions.md",
     "Next.js/05. data fetching.md",
@@ -170,7 +174,6 @@
     "Untitled.md",
     "Pasted image 20240616223525.png",
     "Pasted image 20240616192309.png",
-    "JS/3. Promises.md",
     "JS/2. Async.md",
     "JS/1. Javascript high level, dates and json.md",
     "code crafters/redis in java.md",
@@ -181,14 +184,11 @@
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Pasted image 20240616133712.png",
     "JS/8. arrays.md",
-    "Pasted image 20240615151114.png",
     "WebSockets/3. scaling websockets.md",
     "Postgres and prisma/3. Prisma.md",
     "Next.js",
     "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
     "NodeJS-ExpressJS/5. Authentication.md",
-    "WebSockets/2. interacting with clients.md",
-    "NodeJS-ExpressJS/1. Node runtime.md",
     "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
     "books/Javascript-The-Definitive-Guide.pdf",
