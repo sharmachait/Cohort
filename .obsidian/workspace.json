@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/07. Next Auth.md",
+                "file": "Next.js/10. middlewares.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/07. Next Auth.md",
+                "file": "Next.js/10. middlewares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/07. Next Auth.md",
+                "file": "Next.js/10. middlewares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/07. Next Auth.md"
+                "file": "Next.js/10. middlewares.md"
               }
             }
           }
@@ -149,20 +149,30 @@
   },
   "active": "9887b0ea19ca9277",
   "lastOpenFiles": [
-    "Next.js/04. Backend.md",
-    "Next.js/07. Next Auth.md",
     "Next.js/01. Intro.md",
+    "Next.js/10. middlewares.md",
+    "Pasted image 20240625002935.png",
+    "Pasted image 20240625002009.png",
+    "Next.js/08. Authjs V5.md",
+    "Next.js/07. Next Auth.md",
+    "Next.js/02. Routing.md",
+    "Next.js/09. Monorepos.md",
+    "Next.js/03. Cookies.md",
+    "Pasted image 20240624233653.png",
+    "ReactJS/2. Throttling and debouncing.md",
+    "Postgres and prisma/3. Prisma.md",
+    "Typescript/1. init.md",
+    "Typescript/3. interfaces vs types.md",
+    "Typescript/2. functions.md",
+    "Next.js/04. Backend.md",
     "Pasted image 20240622000003.png",
     "JS/4. Conversions in JS.md",
     "JS/3. Promises.md",
-    "Next.js/03. Cookies.md",
     "Next.js/06. Server actions.md",
     "Next.js/05. data fetching.md",
     "git2.py",
     "git.py",
     "NodeJS-ExpressJS/10. deploying npm packages.md",
-    "Typescript/1. init.md",
-    "Next.js/02. Monorepos.md",
     "NodeJS-ExpressJS/9. Downloading images from links.md",
     "Typescript/Untitled.md",
     "Postgres and prisma/Basic postgres.md",
@@ -176,19 +186,9 @@
     "Pasted image 20240616192309.png",
     "JS/2. Async.md",
     "JS/1. Javascript high level, dates and json.md",
-    "code crafters/redis in java.md",
     "Pasted image 20240616174103.png",
-    "Pasted image 20240616174051.png",
-    "Pasted image 20240616170220.png",
-    "code crafters/git ad hoc notes.md",
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
-    "Pasted image 20240616133712.png",
-    "JS/8. arrays.md",
-    "WebSockets/3. scaling websockets.md",
-    "Postgres and prisma/3. Prisma.md",
     "Next.js",
-    "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
-    "NodeJS-ExpressJS/5. Authentication.md",
     "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
     "books/Javascript-The-Definitive-Guide.pdf",
