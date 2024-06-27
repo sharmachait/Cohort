@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/10. middlewares.md",
+                "file": "Next.js/07. Next Auth.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bcrypt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/10. middlewares.md",
+                "file": "Next.js/07. Next Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/10. middlewares.md",
+                "file": "Next.js/07. Next Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/10. middlewares.md"
+                "file": "Next.js/07. Next Auth.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "9887b0ea19ca9277",
   "lastOpenFiles": [
-    "Next.js/01. Intro.md",
-    "Next.js/10. middlewares.md",
-    "Pasted image 20240625002935.png",
-    "Pasted image 20240625002009.png",
+    "Next.js/06. Server actions.md",
+    "Postgres and prisma/0. postgreSQL setup.md",
     "Next.js/08. Authjs V5.md",
     "Next.js/07. Next Auth.md",
+    "Next.js/10. middlewares.md",
+    "Next.js/01. Intro.md",
+    "Pasted image 20240625002935.png",
+    "Pasted image 20240625002009.png",
     "Next.js/02. Routing.md",
     "Next.js/09. Monorepos.md",
     "Next.js/03. Cookies.md",
@@ -168,7 +170,6 @@
     "Pasted image 20240622000003.png",
     "JS/4. Conversions in JS.md",
     "JS/3. Promises.md",
-    "Next.js/06. Server actions.md",
     "Next.js/05. data fetching.md",
     "git2.py",
     "git.py",
@@ -176,7 +177,6 @@
     "NodeJS-ExpressJS/9. Downloading images from links.md",
     "Typescript/Untitled.md",
     "Postgres and prisma/Basic postgres.md",
-    "Postgres and prisma/0. postgreSQL setup.md",
     "Postgres and prisma/1. select posgtresql.md",
     "Pasted image 20240616231413.png",
     "Pasted image 20240616230725.png",
