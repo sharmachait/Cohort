@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/07. Next Auth.md",
+                "file": "Postgres and prisma/3. Prisma.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5110321044922
+    "width": 200
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/07. Next Auth.md",
+                "file": "Postgres and prisma/3. Prisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/07. Next Auth.md",
+                "file": "Postgres and prisma/3. Prisma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/07. Next Auth.md"
+                "file": "Postgres and prisma/3. Prisma.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "9887b0ea19ca9277",
   "lastOpenFiles": [
+    "Next.js/07. Next Auth.md",
+    "Postgres and prisma/3. Prisma.md",
     "Next.js/06. Server actions.md",
     "Postgres and prisma/0. postgreSQL setup.md",
     "Next.js/08. Authjs V5.md",
-    "Next.js/07. Next Auth.md",
     "Next.js/10. middlewares.md",
     "Next.js/01. Intro.md",
     "Pasted image 20240625002935.png",
@@ -162,7 +163,6 @@
     "Next.js/03. Cookies.md",
     "Pasted image 20240624233653.png",
     "ReactJS/2. Throttling and debouncing.md",
-    "Postgres and prisma/3. Prisma.md",
     "Typescript/1. init.md",
     "Typescript/3. interfaces vs types.md",
     "Typescript/2. functions.md",
