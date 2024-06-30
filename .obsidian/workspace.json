@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres and prisma/3. Prisma.md",
+                "file": "NodeJS-ExpressJS/1. Node runtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bcrypt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres and prisma/3. Prisma.md",
+                "file": "NodeJS-ExpressJS/1. Node runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres and prisma/3. Prisma.md",
+                "file": "NodeJS-ExpressJS/1. Node runtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgres and prisma/3. Prisma.md"
+                "file": "NodeJS-ExpressJS/1. Node runtime.md"
               }
             }
           }
@@ -149,17 +149,19 @@
   },
   "active": "9887b0ea19ca9277",
   "lastOpenFiles": [
+    "ReactJS/12. Routing.md",
+    "Azure with js/Azure service bus queues to send emails.md",
     "Next.js/07. Next Auth.md",
+    "Next.js/09. Monorepos.md",
     "Postgres and prisma/3. Prisma.md",
+    "Next.js/01. Intro.md",
+    "Next.js/02. Routing.md",
+    "Next.js/08. Authjs V5.md",
     "Next.js/06. Server actions.md",
     "Postgres and prisma/0. postgreSQL setup.md",
-    "Next.js/08. Authjs V5.md",
     "Next.js/10. middlewares.md",
-    "Next.js/01. Intro.md",
     "Pasted image 20240625002935.png",
     "Pasted image 20240625002009.png",
-    "Next.js/02. Routing.md",
-    "Next.js/09. Monorepos.md",
     "Next.js/03. Cookies.md",
     "Pasted image 20240624233653.png",
     "ReactJS/2. Throttling and debouncing.md",
@@ -184,8 +186,6 @@
     "Untitled.md",
     "Pasted image 20240616223525.png",
     "Pasted image 20240616192309.png",
-    "JS/2. Async.md",
-    "JS/1. Javascript high level, dates and json.md",
     "Pasted image 20240616174103.png",
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Next.js",
