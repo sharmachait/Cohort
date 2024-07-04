@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md",
+                "file": "WebSockets/1. introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md",
+                "file": "WebSockets/1. introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md",
+                "file": "WebSockets/1. introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS-ExpressJS/1. Node runtime.md"
+                "file": "WebSockets/1. introduction.md"
               }
             }
           }
@@ -149,6 +149,14 @@
   },
   "active": "9887b0ea19ca9277",
   "lastOpenFiles": [
+    "Next.js/08. Authjs V5.md",
+    "WebSockets/1. introduction.md",
+    "WebSockets/2. server side setup with express.md",
+    "WebSockets/0. backend communication.md",
+    "WebSockets/3. scaling websockets.md",
+    "Pasted image 20240630215931.png",
+    "WebSockets/4. securing websockets.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
     "ReactJS/12. Routing.md",
     "Azure with js/Azure service bus queues to send emails.md",
     "Next.js/07. Next Auth.md",
@@ -156,7 +164,6 @@
     "Postgres and prisma/3. Prisma.md",
     "Next.js/01. Intro.md",
     "Next.js/02. Routing.md",
-    "Next.js/08. Authjs V5.md",
     "Next.js/06. Server actions.md",
     "Postgres and prisma/0. postgreSQL setup.md",
     "Next.js/10. middlewares.md",
@@ -172,21 +179,13 @@
     "Pasted image 20240622000003.png",
     "JS/4. Conversions in JS.md",
     "JS/3. Promises.md",
-    "Next.js/05. data fetching.md",
     "git2.py",
     "git.py",
-    "NodeJS-ExpressJS/10. deploying npm packages.md",
-    "NodeJS-ExpressJS/9. Downloading images from links.md",
-    "Typescript/Untitled.md",
-    "Postgres and prisma/Basic postgres.md",
-    "Postgres and prisma/1. select posgtresql.md",
     "Pasted image 20240616231413.png",
     "Pasted image 20240616230725.png",
     "Pasted image 20240616230555.png",
-    "Untitled.md",
     "Pasted image 20240616223525.png",
     "Pasted image 20240616192309.png",
-    "Pasted image 20240616174103.png",
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Next.js",
     "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
