@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebSockets/1. introduction.md",
+                "file": "Advanced Backend/02. Redis pub subs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebSockets/1. introduction.md",
+                "file": "Advanced Backend/02. Redis pub subs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebSockets/1. introduction.md",
+                "file": "Advanced Backend/02. Redis pub subs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebSockets/1. introduction.md"
+                "file": "Advanced Backend/02. Redis pub subs.md"
               }
             }
           }
@@ -149,43 +149,45 @@
   },
   "active": "9887b0ea19ca9277",
   "lastOpenFiles": [
-    "Next.js/08. Authjs V5.md",
+    "Pasted image 20240705163257.png",
+    "Pasted image 20240705163203.png",
+    "Advanced Backend/01. Redis datastores.md",
+    "Advanced Backend/02. Redis pub subs.md",
+    "Next.js/04. Backend.md",
+    "Next.js/01. Intro.md",
+    "Next.js/10. middlewares.md",
+    "Next.js/02. Routing.md",
+    "Pasted image 20240705110100.png",
+    "Pasted image 20240704230901.png",
+    "Pasted image 20240704230524.png",
+    "Pasted image 20240704230039.png",
+    "Pasted image 20240704225711.png",
+    "Pasted image 20240704224939.png",
+    "Pasted image 20240704224559.png",
+    "Pasted image 20240704224513.png",
+    "Pasted image 20240704115603.png",
+    "JS/13. Advanced Topic.md",
+    "Next.js/11. static site generation.md",
+    "Next.js/WebSockets.md",
+    "Advanced Backend",
+    "Untitled.md",
+    "JS/2. Async.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "code crafters/git ad hoc notes.md",
+    "Mongo/5. Aggregations.md",
+    "Mongo/4. Mongoose middlewares.md",
+    "Mongo/3. CRUD.md",
+    "Mongo/2. Schemas.md",
+    "Mongo/1. Mongoose.md",
     "WebSockets/1. introduction.md",
+    "Next.js/08. Authjs V5.md",
     "WebSockets/2. server side setup with express.md",
     "WebSockets/0. backend communication.md",
     "WebSockets/3. scaling websockets.md",
-    "Pasted image 20240630215931.png",
     "WebSockets/4. securing websockets.md",
     "NodeJS-ExpressJS/1. Node runtime.md",
-    "ReactJS/12. Routing.md",
-    "Azure with js/Azure service bus queues to send emails.md",
-    "Next.js/07. Next Auth.md",
-    "Next.js/09. Monorepos.md",
-    "Postgres and prisma/3. Prisma.md",
-    "Next.js/01. Intro.md",
-    "Next.js/02. Routing.md",
-    "Next.js/06. Server actions.md",
-    "Postgres and prisma/0. postgreSQL setup.md",
-    "Next.js/10. middlewares.md",
-    "Pasted image 20240625002935.png",
-    "Pasted image 20240625002009.png",
-    "Next.js/03. Cookies.md",
-    "Pasted image 20240624233653.png",
-    "ReactJS/2. Throttling and debouncing.md",
-    "Typescript/1. init.md",
-    "Typescript/3. interfaces vs types.md",
-    "Typescript/2. functions.md",
-    "Next.js/04. Backend.md",
-    "Pasted image 20240622000003.png",
-    "JS/4. Conversions in JS.md",
-    "JS/3. Promises.md",
     "git2.py",
     "git.py",
-    "Pasted image 20240616231413.png",
-    "Pasted image 20240616230725.png",
-    "Pasted image 20240616230555.png",
-    "Pasted image 20240616223525.png",
-    "Pasted image 20240616192309.png",
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Next.js",
     "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
@@ -193,7 +195,6 @@
     "books/Javascript-The-Definitive-Guide.pdf",
     "books/Computer Networks.pdf",
     "books/blockchain.pdf",
-    "books/beginning-t-sql-a-step-by-step-approach-4nbsped-9781484266052-9781484266069_compress.pdf",
     "Untitled.canvas",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
