@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2fd1cafad979c449",
+        "id": "2e3d561b7f54e084",
         "type": "tabs",
         "children": [
           {
-            "id": "9887b0ea19ca9277",
+            "id": "fc5d27ed07d74779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Backend/02. Redis pub subs.md",
+                "file": "Azure with js/Azure functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Backend/02. Redis pub subs.md",
+                "file": "Azure with js/Azure functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Backend/02. Redis pub subs.md",
+                "file": "Azure with js/Azure functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Backend/02. Redis pub subs.md"
+                "file": "Azure with js/Azure functions.md"
               }
             }
           }
@@ -147,16 +147,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9887b0ea19ca9277",
+  "active": "fc5d27ed07d74779",
   "lastOpenFiles": [
+    "Next.js/02. Routing.md",
+    "ReactJS/13. Recoil.md",
+    "Next.js/08. Authjs V5.md",
+    "Next.js/07. Next Auth.md",
+    "Excalidraw/Drawing 2024-03-31 01.44.04.excalidraw.md",
+    "Azure with js/Azure functions.md",
+    "Azure with js/Azure Blob Storage.md",
+    "Azure with js/Azure service bus queues to send emails.md",
+    "Excalidraw/Drawing 2024-03-31 21.59.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-30 22.56.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-06 14.04.21.excalidraw.md",
+    "Ink/Writing/2024.6.6 - 14.07pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "Pasted image 20240706122555.png",
+    "Advanced Backend/02. Redis pub subs.md",
     "Pasted image 20240705163257.png",
     "Pasted image 20240705163203.png",
     "Advanced Backend/01. Redis datastores.md",
-    "Advanced Backend/02. Redis pub subs.md",
     "Next.js/04. Backend.md",
     "Next.js/01. Intro.md",
     "Next.js/10. middlewares.md",
-    "Next.js/02. Routing.md",
     "Pasted image 20240705110100.png",
     "Pasted image 20240704230901.png",
     "Pasted image 20240704230524.png",
@@ -164,8 +178,6 @@
     "Pasted image 20240704225711.png",
     "Pasted image 20240704224939.png",
     "Pasted image 20240704224559.png",
-    "Pasted image 20240704224513.png",
-    "Pasted image 20240704115603.png",
     "JS/13. Advanced Topic.md",
     "Next.js/11. static site generation.md",
     "Next.js/WebSockets.md",
@@ -177,24 +189,12 @@
     "Mongo/5. Aggregations.md",
     "Mongo/4. Mongoose middlewares.md",
     "Mongo/3. CRUD.md",
-    "Mongo/2. Schemas.md",
-    "Mongo/1. Mongoose.md",
-    "WebSockets/1. introduction.md",
-    "Next.js/08. Authjs V5.md",
-    "WebSockets/2. server side setup with express.md",
-    "WebSockets/0. backend communication.md",
-    "WebSockets/3. scaling websockets.md",
-    "WebSockets/4. securing websockets.md",
-    "NodeJS-ExpressJS/1. Node runtime.md",
     "git2.py",
     "git.py",
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Next.js",
     "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
-    "books/Javascript-The-Definitive-Guide.pdf",
-    "books/Computer Networks.pdf",
-    "books/blockchain.pdf",
     "Untitled.canvas",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
