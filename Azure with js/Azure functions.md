@@ -11,6 +11,8 @@ function apps can also have application insights associated with them for monito
 1. vendor lock in
 2. cold start - less for interpreted languages
 3. resource limits, functions can not run for more than 10 minutes and can not take more than some amount of limited memory.
+
+to make the function acccessible publicly we have to change the trigger authorization level to be anonymous in the intergration section of the individual function
 # refactoring express.js to azure functions
 
 1. ensure middleware logic is taken care of
