@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b152423cccb90d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Backend/04. zapier clone adhock stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Backend/05. Kafka.md",
+                "file": "Advanced Backend/04. zapier clone adhock stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Backend/05. Kafka.md",
+                "file": "Advanced Backend/04. zapier clone adhock stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Backend/05. Kafka.md"
+                "file": "Advanced Backend/04. zapier clone adhock stuff.md"
               }
             }
           }
@@ -147,10 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23f4949be921b981",
+  "active": "b152423cccb90d2a",
   "lastOpenFiles": [
-    "Typescript/1. init.md",
+    "Pasted image 20240723122333.png",
+    "Excalidraw/Drawing 2024-07-23 12.12.14.excalidraw.md",
     "Advanced Backend/05. Kafka.md",
+    "Typescript/1. init.md",
     "Postgres and prisma/3. Prisma.md",
     "Pasted image 20240718102454.png",
     "Advanced Backend/02. Redis pub subs.md",
@@ -178,7 +193,6 @@
     "JS/8. arrays.md",
     "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
     "Next.js/08. Authjs V5.md",
-    "Azure with js/Azure functions.md",
     "Ink/Writing/2024.6.6 - 14.07pm.writing",
     "Ink/Writing",
     "Ink",
