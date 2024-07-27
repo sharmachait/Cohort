@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Backend/05. Kafka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b152423cccb90d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/12. Open API spec, client generation.md",
+                "file": "code crafters/redis in csharp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5110321044922
+    "width": 380.5110321044922
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/12. Open API spec, client generation.md",
+                "file": "code crafters/redis in csharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/12. Open API spec, client generation.md",
+                "file": "code crafters/redis in csharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/12. Open API spec, client generation.md"
+                "file": "code crafters/redis in csharp.md"
               }
             }
           }
@@ -160,8 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b152423cccb90d2a",
+  "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
+    "Advanced Backend/05. Kafka.md",
+    "Ink/Writing/2024.6.6 - 14.07pm.writing",
+    "Advanced Backend/02. Redis pub subs.md",
+    "Advanced Backend/01. Redis datastores.md",
+    "Typescript/12. Open API spec, client generation.md",
     "Typescript/10. React + Typescript.md",
     "Next.js/02. Routing.md",
     "Postgres and prisma/3. Prisma.md",
@@ -170,18 +162,14 @@
     "Advanced Backend/04. zapier clone adhock stuff.md",
     "Pasted image 20240723122333.png",
     "Excalidraw/Drawing 2024-07-23 12.12.14.excalidraw.md",
-    "Advanced Backend/05. Kafka.md",
     "Typescript/1. init.md",
     "Pasted image 20240718102454.png",
-    "Advanced Backend/02. Redis pub subs.md",
     "Advanced Backend/03. Cross software transactions.md",
     "Pasted image 20240716121843.png",
     "Excalidraw/Drawing 2024-07-16 12.11.13.excalidraw.md",
     "Pasted image 20240716121220.png",
-    "Typescript/12. Open API spec, client generation.md",
     "Pasted image 20240715104414.png",
     "Pasted image 20240714233638.png",
-    "Advanced Backend/01. Redis datastores.md",
     "Postgres and prisma/Basic postgres.md",
     "Next.js/12. context api.md",
     "README.md",
@@ -193,8 +181,6 @@
     "Next.js/01. Intro.md",
     "Next.js/04. Backend.md",
     "Next.js/WebSockets.md",
-    "JS/8. arrays.md",
-    "Ink/Writing/2024.6.6 - 14.07pm.writing",
     "Ink/Writing",
     "Ink",
     "Pasted image 20240706122555.png",
