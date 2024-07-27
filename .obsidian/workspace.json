@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Backend/04. zapier clone adhock stuff.md",
+                "file": "Typescript/12. Open API spec, client generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "infini",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Backend/04. zapier clone adhock stuff.md",
+                "file": "Typescript/12. Open API spec, client generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Backend/04. zapier clone adhock stuff.md",
+                "file": "Typescript/12. Open API spec, client generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Backend/04. zapier clone adhock stuff.md"
+                "file": "Typescript/12. Open API spec, client generation.md"
               }
             }
           }
@@ -162,14 +162,18 @@
   },
   "active": "b152423cccb90d2a",
   "lastOpenFiles": [
+    "Typescript/10. React + Typescript.md",
+    "Next.js/02. Routing.md",
+    "Postgres and prisma/3. Prisma.md",
+    "JS/1. Javascript high level, dates and json.md",
+    "JS/2. Async.md",
+    "Advanced Backend/04. zapier clone adhock stuff.md",
     "Pasted image 20240723122333.png",
     "Excalidraw/Drawing 2024-07-23 12.12.14.excalidraw.md",
     "Advanced Backend/05. Kafka.md",
     "Typescript/1. init.md",
-    "Postgres and prisma/3. Prisma.md",
     "Pasted image 20240718102454.png",
     "Advanced Backend/02. Redis pub subs.md",
-    "Advanced Backend/04. zapier clone adhock stuff.md",
     "Advanced Backend/03. Cross software transactions.md",
     "Pasted image 20240716121843.png",
     "Excalidraw/Drawing 2024-07-16 12.11.13.excalidraw.md",
@@ -178,7 +182,6 @@
     "Pasted image 20240715104414.png",
     "Pasted image 20240714233638.png",
     "Advanced Backend/01. Redis datastores.md",
-    "Next.js/02. Routing.md",
     "Postgres and prisma/Basic postgres.md",
     "Next.js/12. context api.md",
     "README.md",
@@ -191,8 +194,6 @@
     "Next.js/04. Backend.md",
     "Next.js/WebSockets.md",
     "JS/8. arrays.md",
-    "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
-    "Next.js/08. Authjs V5.md",
     "Ink/Writing/2024.6.6 - 14.07pm.writing",
     "Ink/Writing",
     "Ink",
@@ -200,7 +201,6 @@
     "Pasted image 20240705163257.png",
     "Pasted image 20240705163203.png",
     "Pasted image 20240705110100.png",
-    "Pasted image 20240704230901.png",
     "Advanced Backend",
     "git2.py",
     "git.py",
