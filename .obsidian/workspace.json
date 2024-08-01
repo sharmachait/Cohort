@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code crafters/redis in csharp.md",
+                "file": "Typescript/11. zod + typescript.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "infini",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5110321044922
+    "width": 256.51625061035156
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code crafters/redis in csharp.md",
+                "file": "Typescript/11. zod + typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code crafters/redis in csharp.md",
+                "file": "Typescript/11. zod + typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code crafters/redis in csharp.md"
+                "file": "Typescript/11. zod + typescript.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
+    "Next.js/09. Monorepos.md",
+    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
+    "Postgres and prisma/3. Prisma.md",
+    "code crafters/redis in csharp.md",
     "Advanced Backend/05. Kafka.md",
     "Ink/Writing/2024.6.6 - 14.07pm.writing",
     "Advanced Backend/02. Redis pub subs.md",
@@ -156,7 +160,6 @@
     "Typescript/12. Open API spec, client generation.md",
     "Typescript/10. React + Typescript.md",
     "Next.js/02. Routing.md",
-    "Postgres and prisma/3. Prisma.md",
     "JS/1. Javascript high level, dates and json.md",
     "JS/2. Async.md",
     "Advanced Backend/04. zapier clone adhock stuff.md",
@@ -174,13 +177,11 @@
     "Next.js/12. context api.md",
     "README.md",
     "Next.js/07. Next Auth.md",
-    "Next.js/09. Monorepos.md",
     "Excalidraw/paytm.excalidraw.md",
     "Next.js/05. data fetching.md",
     "Next.js/03. Cookies.md",
     "Next.js/01. Intro.md",
     "Next.js/04. Backend.md",
-    "Next.js/WebSockets.md",
     "Ink/Writing",
     "Ink",
     "Pasted image 20240706122555.png",
