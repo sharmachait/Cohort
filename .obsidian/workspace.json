@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/11. zod + typescript.md",
+                "file": "ReactJS/12. Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/11. zod + typescript.md",
+                "file": "ReactJS/12. Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/11. zod + typescript.md",
+                "file": "ReactJS/12. Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/11. zod + typescript.md"
+                "file": "ReactJS/12. Routing.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
+    "Typescript/11. zod + typescript.md",
     "Next.js/09. Monorepos.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "Postgres and prisma/3. Prisma.md",
@@ -181,7 +182,6 @@
     "Next.js/05. data fetching.md",
     "Next.js/03. Cookies.md",
     "Next.js/01. Intro.md",
-    "Next.js/04. Backend.md",
     "Ink/Writing",
     "Ink",
     "Pasted image 20240706122555.png",
