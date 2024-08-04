@@ -21,3 +21,39 @@ Synchronous replication of certain data can be requested by the clients using th
 ### The `--replicaof` flag
 
 By default, a Redis server assumes the "master" role. When the `--replicaof` flag is passed, the server assumes the "slave" role instead.
+
+### TspListener and TcpClient in c#
+
+##### TcpClient
+```c#
+var client = new TcpClient(hostIpAddress, portname);
+NetworkStream stream = client.GetStream();
+stream.Write(Encoding.UTF8.GetBytes("hello world"));
+```
+
+we can also use the connect method to connect to a tcp server/listener
+
+it has three over loads
+
+1. `Connect(IPEndPoint)`
+	1. the IPEndpoint class is used to specify the full address of the host
+2. `Connect(IPAddress, int32)`
+	1. we can provide an instance of the IPAddress class with the port we want to connect to
+3. `Connect(String, int32)`
+	1. connects using the specified port and host
+
+```c#
+var client = new TcpClient();
+client.Connect("192.168.1.161",9001);
+```
+
+##### Reading form the stream
+using the StreamReader class
+```c#
+var reader = new StreamReader(stream,System.Text.Encoding.UTF8)
+reader.ReadToEnd();
+```
+
+ReadToEnd function reads all the data that has been passed on the data stream
+it blocks the tread till the connection is up
+

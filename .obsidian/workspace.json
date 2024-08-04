@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/12. Routing.md",
+                "file": "code crafters/redis in csharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactJS/12. Routing.md",
+                "file": "code crafters/redis in csharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReactJS/12. Routing.md",
+                "file": "code crafters/redis in csharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/12. Routing.md"
+                "file": "code crafters/redis in csharp.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "23f4949be921b981",
   "lastOpenFiles": [
+    "ReactJS/12. Routing.md",
     "Typescript/11. zod + typescript.md",
     "Next.js/09. Monorepos.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
@@ -181,7 +182,6 @@
     "Excalidraw/paytm.excalidraw.md",
     "Next.js/05. data fetching.md",
     "Next.js/03. Cookies.md",
-    "Next.js/01. Intro.md",
     "Ink/Writing",
     "Ink",
     "Pasted image 20240706122555.png",
