@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code crafters/redis in csharp.md",
+                "file": "Advanced Backend/ddos, rate limiting and captchas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code crafters/redis in csharp.md",
+                "file": "Advanced Backend/ddos, rate limiting and captchas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code crafters/redis in csharp.md",
+                "file": "Advanced Backend/ddos, rate limiting and captchas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code crafters/redis in csharp.md"
+                "file": "Advanced Backend/ddos, rate limiting and captchas.md"
               }
             }
           }
@@ -147,24 +147,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23f4949be921b981",
+  "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
+    "Pasted image 20240810235259.png",
+    "WebSockets/1. introduction.md",
+    "Typescript/12. Open API spec, client generation.md",
+    "Advanced Backend/ddos, rate limiting and captchas.md",
+    "Pasted image 20240810212602.png",
+    "Advanced Backend/04. zapier clone adhock stuff.md",
+    "code crafters/redis in csharp.md",
     "ReactJS/12. Routing.md",
     "Typescript/11. zod + typescript.md",
     "Next.js/09. Monorepos.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
     "Postgres and prisma/3. Prisma.md",
-    "code crafters/redis in csharp.md",
     "Advanced Backend/05. Kafka.md",
     "Ink/Writing/2024.6.6 - 14.07pm.writing",
     "Advanced Backend/02. Redis pub subs.md",
     "Advanced Backend/01. Redis datastores.md",
-    "Typescript/12. Open API spec, client generation.md",
     "Typescript/10. React + Typescript.md",
     "Next.js/02. Routing.md",
     "JS/1. Javascript high level, dates and json.md",
     "JS/2. Async.md",
-    "Advanced Backend/04. zapier clone adhock stuff.md",
     "Pasted image 20240723122333.png",
     "Excalidraw/Drawing 2024-07-23 12.12.14.excalidraw.md",
     "Typescript/1. init.md",
@@ -179,15 +183,11 @@
     "Next.js/12. context api.md",
     "README.md",
     "Next.js/07. Next Auth.md",
-    "Excalidraw/paytm.excalidraw.md",
-    "Next.js/05. data fetching.md",
-    "Next.js/03. Cookies.md",
     "Ink/Writing",
     "Ink",
     "Pasted image 20240706122555.png",
     "Pasted image 20240705163257.png",
     "Pasted image 20240705163203.png",
-    "Pasted image 20240705110100.png",
     "Advanced Backend",
     "git2.py",
     "git.py",
