@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Backend/ddos, rate limiting and captchas.md",
+                "file": "Advanced Backend/07. singletons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Backend/ddos, rate limiting and captchas.md",
+                "file": "Advanced Backend/07. singletons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Backend/ddos, rate limiting and captchas.md",
+                "file": "Advanced Backend/07. singletons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Backend/ddos, rate limiting and captchas.md"
+                "file": "Advanced Backend/07. singletons.md"
               }
             }
           }
@@ -147,12 +147,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "23f4949be921b981",
   "lastOpenFiles": [
+    "Advanced Backend/06. ddos, rate limiting and captchas.md",
+    "Advanced Backend/07. singletons.md",
+    "Next.js/07. Next Auth.md",
+    "Next.js/04. Backend.md",
+    "Next.js/08. Authjs V5.md",
     "Pasted image 20240810235259.png",
     "WebSockets/1. introduction.md",
     "Typescript/12. Open API spec, client generation.md",
-    "Advanced Backend/ddos, rate limiting and captchas.md",
     "Pasted image 20240810212602.png",
     "Advanced Backend/04. zapier clone adhock stuff.md",
     "code crafters/redis in csharp.md",
@@ -180,14 +184,10 @@
     "Pasted image 20240715104414.png",
     "Pasted image 20240714233638.png",
     "Postgres and prisma/Basic postgres.md",
-    "Next.js/12. context api.md",
-    "README.md",
-    "Next.js/07. Next Auth.md",
     "Ink/Writing",
     "Ink",
     "Pasted image 20240706122555.png",
     "Pasted image 20240705163257.png",
-    "Pasted image 20240705163203.png",
     "Advanced Backend",
     "git2.py",
     "git.py",
