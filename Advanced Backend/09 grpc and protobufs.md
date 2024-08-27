@@ -10,12 +10,12 @@ message Person {
 	string name = 1;
 	int32 age = 2;
 }
-message GetPersonByRequest {
+message GetPersonByNameRequest {
 	string name = 1;
 }
 service PersonService {
 	rpc AddPerson(Person) returns (Person);
-	rpc GetPersonByName(GetPersonByRequest) returns (Person);
+	rpc GetPersonByName(GetPersonByNameRequest) returns (Person);
 }
 ```
 
@@ -88,7 +88,7 @@ message MapName {
 ```ts
 import path from 'path';
 import * as grpc from '@grpc/grpc-js';
-import {GrpcObject, ServiceCLientConstructor} from '@grpc/grpc-js';
+import {GrpcObject, ServiceClientConstructor} from '@grpc/grpc-js';
 import * as protoLoader from '@grpc/proto-loader';
 
 const package = protoLoader.loadSync(path.join(__dirname,'a.proto'));
@@ -97,23 +97,46 @@ const personProto = grpc.loadPackageDefinition(package);
 const persons: Person[] = [];
 
 function addPerson(call,callback){// req, res
-	console.log(call);
-	let person = {
+	
+	let person: Person = {
 		name:call.request.name,
 		age: call.request.age
-	}
+	};
 	persons.push(person);
-	callback(null,person);// error, response
+	callback(null, person);// error, response
+}
+function getPersonByName(call,callback){
+	const name = call.request.name;
+	const person = persons.find(
+		x => x.name === name
+	);
+	callback(null, person);
 }
 
 const server = grpc.Server();
 
 server.addService(
 	(personProto.PersonService as ServiceClientConstructor).service
-	, { addPerson : addPerson }
+	, { 
+		AddPerson : addPerson
+		, GetPersonByName : getPersonByName
+	 }
 );
 
-server.bindAsync('0.0.0.0:50051'
-				, grpc.ServerCredentials.createInsecure()
-				, ()=>{ server.start(); })
+server.bindAsync(
+	'0.0.0.0:50051'
+	, grpc.ServerCredentials.createInsecure()
+	, ()=>{ server.start(); }
+);
+
 ```
+
+but what will the route for the addPerson function look like ?
+
+grpc://localhost:50051 PersonService AddPerson
+
+we can auto complete for this on postman we just need to upload our proto file to it
+
+we cna generate the typescirpt types from the proto file using the proto-loader-gen-types script
+
+> node node_modules/@grpc/proto-loader/build/bin/proto-loader-gen-types.js
