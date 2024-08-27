@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Backend/07. singletons.md",
+                "file": "Advanced Backend/09 grpc and protobufs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Backend/07. singletons.md",
+                "file": "Advanced Backend/09 grpc and protobufs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Backend/07. singletons.md",
+                "file": "Advanced Backend/09 grpc and protobufs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Backend/07. singletons.md"
+                "file": "Advanced Backend/09 grpc and protobufs.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "23f4949be921b981",
   "lastOpenFiles": [
-    "Advanced Backend/06. ddos, rate limiting and captchas.md",
+    "Advanced Backend/08. json-rpc.md",
+    "Advanced Backend/09 grpc and protobufs.md",
+    "Pasted image 20240826083802.png",
     "Advanced Backend/07. singletons.md",
+    "Advanced Backend/06. ddos, rate limiting and captchas.md",
     "Next.js/07. Next Auth.md",
     "Next.js/04. Backend.md",
     "Next.js/08. Authjs V5.md",
@@ -179,15 +182,12 @@
     "Pasted image 20240718102454.png",
     "Advanced Backend/03. Cross software transactions.md",
     "Pasted image 20240716121843.png",
-    "Excalidraw/Drawing 2024-07-16 12.11.13.excalidraw.md",
     "Pasted image 20240716121220.png",
     "Pasted image 20240715104414.png",
     "Pasted image 20240714233638.png",
-    "Postgres and prisma/Basic postgres.md",
     "Ink/Writing",
     "Ink",
     "Pasted image 20240706122555.png",
-    "Pasted image 20240705163257.png",
     "Advanced Backend",
     "git2.py",
     "git.py",
