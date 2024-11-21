@@ -137,6 +137,6 @@ grpc://localhost:50051 PersonService AddPerson
 
 we can auto complete for this on postman we just need to upload our proto file to it
 
-we cna generate the typescirpt types from the proto file using the proto-loader-gen-types script
+we can generate the typescirpt types from the proto file using the proto-loader-gen-types script
 
 > node node_modules/@grpc/proto-loader/build/bin/proto-loader-gen-types.js

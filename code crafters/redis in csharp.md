@@ -4,7 +4,7 @@ replica instances are exact copies of the master instance
 the replicas  reconnect to the master every time the connection is broken
 the replica tries to be the exact copy of the master regardless of what happens to the master
 
-## mechanism that keeps the instances in sync
+## Mechanism that keeps the instances in sync
 1. When a master and a replica instance are well-connected, the master keeps the replica updated by sending a stream of commands to the replica to replicate the effects on the dataset
 2. When the link between the master and the replica breaks, for network issues or because a timeout is sensed in the master or the replica, the replica reconnects and attempts to proceed with a partial resynchronization: it means that it will try to just obtain the part of the stream of commands it missed during the disconnection.
 3. When a partial resynchronization is not possible, the replica will ask for a full resynchronization. the master makes a snapshot of all the data and send it to the replica, followed by the stream of commands after the snapshot
@@ -57,3 +57,14 @@ reader.ReadToEnd();
 ReadToEnd function reads all the data that has been passed on the data stream
 it blocks the tread till the connection is up
 
+Replication DLC: Build Redis from scratch in C#.
+
+In the next stage of the build you own redis from scratch [Build your own Redis | CodeCrafters](https://app.codecrafters.io/courses/redis/overview) offered by [CodeCrafters.io (YC S22)](https://www.linkedin.com/company/codecraftersio/) I have implemented master-slave architecture that adheres to the set of protocols and standards laid down in the Redis Documentation.
+
+To achieve scalability over read commands, Redis allows us to deploy read-replicas separate from the master node where the Writes actually happen. This provides a foundational distributed cache solution, allowing applications to handle increased load and improve read performance.
+
+Find my implementation at :- 
+Github - [sharmachait/RedisFromScratch (github.com)](https://github.com/sharmachait/RedisFromScratch)
+Azure Devops - [RedisFromScratch - Repos (azure.com)](https://dev.azure.com/ChaitanyaDSharma/Codecrafters/_git/RedisFromScratch)
+
+![[Pasted image 20240903011812.png]]![[Pasted image 20240903011902.png]]

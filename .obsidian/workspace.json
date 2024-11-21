@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d34668f547ec14f",
+        "id": "528133cd8310a408",
         "type": "tabs",
         "children": [
           {
-            "id": "23f4949be921b981",
+            "id": "cac4c222f5e20ae5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,9 @@
                 "file": "Advanced Backend/09 grpc and protobufs.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "09 grpc and protobufs"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grpc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Backend/09 grpc and protobufs.md",
+                "file": "NodeJS-ExpressJS/1. Node runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Node runtime"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Backend/09 grpc and protobufs.md",
+                "file": "NodeJS-ExpressJS/1. Node runtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Node runtime"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Backend/09 grpc and protobufs.md"
-              }
+                "file": "NodeJS-ExpressJS/1. Node runtime.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Node runtime"
             }
           }
         ],
@@ -147,10 +163,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23f4949be921b981",
+  "active": "735b2f4b85c1427f",
   "lastOpenFiles": [
-    "Advanced Backend/08. json-rpc.md",
+    "NodeJS-ExpressJS/1. Node runtime.md",
+    "NodeJS-ExpressJS/5. Authentication.md",
+    "Next.js/03. Cookies.md",
+    "Postgres and prisma/0. postgreSQL setup.md",
+    "Postgres and prisma/Basic postgres.md",
+    "Postgres and prisma/3. Prisma.md",
+    "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
+    "Postgres and prisma/1. select posgtresql.md",
+    "code crafters/redis in csharp.md",
+    "Pasted image 20240903011902.png",
+    "Pasted image 20240903011812.png",
+    "[Build.md",
     "Advanced Backend/09 grpc and protobufs.md",
+    "Testing/Node.js + Express.js.md",
+    "Testing",
+    "Advanced Backend/08. json-rpc.md",
     "Pasted image 20240826083802.png",
     "Advanced Backend/07. singletons.md",
     "Advanced Backend/06. ddos, rate limiting and captchas.md",
@@ -162,39 +192,25 @@
     "Typescript/12. Open API spec, client generation.md",
     "Pasted image 20240810212602.png",
     "Advanced Backend/04. zapier clone adhock stuff.md",
-    "code crafters/redis in csharp.md",
     "ReactJS/12. Routing.md",
     "Typescript/11. zod + typescript.md",
     "Next.js/09. Monorepos.md",
     "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
-    "Postgres and prisma/3. Prisma.md",
     "Advanced Backend/05. Kafka.md",
     "Ink/Writing/2024.6.6 - 14.07pm.writing",
-    "Advanced Backend/02. Redis pub subs.md",
-    "Advanced Backend/01. Redis datastores.md",
-    "Typescript/10. React + Typescript.md",
-    "Next.js/02. Routing.md",
-    "JS/1. Javascript high level, dates and json.md",
-    "JS/2. Async.md",
     "Pasted image 20240723122333.png",
-    "Excalidraw/Drawing 2024-07-23 12.12.14.excalidraw.md",
-    "Typescript/1. init.md",
     "Pasted image 20240718102454.png",
-    "Advanced Backend/03. Cross software transactions.md",
     "Pasted image 20240716121843.png",
     "Pasted image 20240716121220.png",
     "Pasted image 20240715104414.png",
-    "Pasted image 20240714233638.png",
     "Ink/Writing",
     "Ink",
-    "Pasted image 20240706122555.png",
     "Advanced Backend",
     "git2.py",
     "git.py",
     "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
     "Next.js",
     "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
-    "books/tethered-ai-trackable-traceable-artificial-intelligence-and-machine-learning-9781098130480-1098130480.pdf",
     "Untitled.canvas",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
