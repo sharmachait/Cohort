@@ -2,7 +2,7 @@
   "accentColor": "#6000f0",
   "cssTheme": "Prism",
   "theme": "obsidian",
-  "baseFontSize": 19,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "textFontFamily": "CaskaydiaMono Nerd Font"
 }

@@ -19,7 +19,7 @@ service PersonService {
 }
 ```
 
-the one and two in the above example are known as field numbers they are used for backwards compatibility when we change the order of fields in our message as long as they have the same field number we will be backwards compatible
+the one and two in the above example are known as field numbers they are used for backwards compatibility when we change the order of fields in our message as long as they have the same field number we will be backwards compatible in our contracts
 > npm i protobufjs
 
 ```js

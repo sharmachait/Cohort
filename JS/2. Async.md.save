@@ -1,0 +1,65 @@
+when the async task is completed it goes into the call back queue, and is processed when the main thread gets free
+async evolves from [[3. Promises]]
+
+promises are await-able
+
+when i do 
+```js
+let result=await promise_variable;
+```
+result gets what ever the promise resolves to when we do .then for example
+we can use await keyword only in an async function
+
+```js
+function returns_promise_string(){
+	return new Promise(function(resolve){
+		setTimeout(function(){
+			resolve('hi there')
+		},5000);
+	})
+}
+
+function returns_promise_object(){
+	return new Promise(function(resolve){
+		setTimeout(function(){
+			resolve({"prop1":"val1","prop2":"val2"});
+		},5000);
+	})
+}
+
+async function main(){
+	let res=await returns_promise_string();
+	let obj=await returns_promise_object();
+	console.log(res);
+	console.log(obj);
+}
+main();
+```
+
+await is thread blocking at the function level that is if the thread blocked in the async method then the control goes out of the async function and proceeds further with the thread from where the function was called, the async function goes into the callback queue and is picked up when the thread is idle.
+If instead of await we used the .then syntax the thread will continue and the call back function will be processed when the thread is idle.
+
+but here as soon as we do await the thread starts waiting for the promise to resolve
+in the following code, hi is printed before the object
+```js
+function returns_promise_object() {
+    return new Promise(function (resolve) {
+        setTimeout(function () {
+            resolve({ "prop1": "val1", "prop2": "val2" });
+        }, 10000);
+    })
+}
+async function main() {
+    let obj = await returns_promise_object();
+    console.log(obj);
+}
+
+main();
+
+setTimeout(function () {
+    console.log("hi");
+}, 5000);
+```
+
+
+[[1. Javascript high level, dates and json]]

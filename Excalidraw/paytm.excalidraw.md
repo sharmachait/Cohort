@@ -127,8 +127,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 641000309,
+			"version": 76,
+			"versionNonce": 537690157,
 			"isDeleted": false,
 			"id": "yXnL7Og0",
 			"fillStyle": "solid",
@@ -148,7 +148,7 @@ needs to be heavily monitored ^YE8FIbJC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720805586120,
+			"updated": 1732213906604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -202,8 +202,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 81,
-			"versionNonce": 781515355,
+			"version": 82,
+			"versionNonce": 354198819,
 			"isDeleted": false,
 			"id": "z3Zp1bFv",
 			"fillStyle": "solid",
@@ -228,7 +228,7 @@ needs to be heavily monitored ^YE8FIbJC
 					"type": "arrow"
 				}
 			],
-			"updated": 1720805586120,
+			"updated": 1732213906604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -404,8 +404,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 214,
-			"versionNonce": 1829940437,
+			"version": 215,
+			"versionNonce": 1413870221,
 			"isDeleted": false,
 			"id": "lu5hi6sD",
 			"fillStyle": "solid",
@@ -425,7 +425,7 @@ needs to be heavily monitored ^YE8FIbJC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720805586120,
+			"updated": 1732213906604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -687,8 +687,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 359,
-			"versionNonce": 609941243,
+			"version": 360,
+			"versionNonce": 1899104451,
 			"isDeleted": false,
 			"id": "Dcy64GQk",
 			"fillStyle": "solid",
@@ -717,7 +717,7 @@ needs to be heavily monitored ^YE8FIbJC
 					"type": "arrow"
 				}
 			],
-			"updated": 1720805586120,
+			"updated": 1732213906604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -785,8 +785,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 472926773,
+			"version": 342,
+			"versionNonce": 2036472045,
 			"isDeleted": false,
 			"id": "pOgvgbrR",
 			"fillStyle": "solid",
@@ -806,7 +806,7 @@ needs to be heavily monitored ^YE8FIbJC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720805586121,
+			"updated": 1732213906604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -822,8 +822,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 415,
-			"versionNonce": 897081243,
+			"version": 416,
+			"versionNonce": 1478096995,
 			"isDeleted": false,
 			"id": "NlT3I38Z",
 			"fillStyle": "solid",
@@ -843,7 +843,7 @@ needs to be heavily monitored ^YE8FIbJC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720805586121,
+			"updated": 1732213906604,
 			"link": null,
 			"locked": false,
 			"fontSize": 16.954904245458263,
@@ -981,8 +981,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 60,
-			"versionNonce": 1148402581,
+			"version": 61,
+			"versionNonce": 1223324493,
 			"isDeleted": false,
 			"id": "s1OyDwGx",
 			"fillStyle": "solid",
@@ -1002,7 +1002,7 @@ needs to be heavily monitored ^YE8FIbJC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720805586121,
+			"updated": 1732213906604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1148,8 +1148,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 1545581627,
+			"version": 183,
+			"versionNonce": 1738732547,
 			"isDeleted": false,
 			"id": "PkEkEdi8",
 			"fillStyle": "solid",
@@ -1178,7 +1178,7 @@ needs to be heavily monitored ^YE8FIbJC
 					"type": "arrow"
 				}
 			],
-			"updated": 1720805586121,
+			"updated": 1732213906604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1298,8 +1298,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 202,
-			"versionNonce": 1041301749,
+			"version": 203,
+			"versionNonce": 255361453,
 			"isDeleted": false,
 			"id": "EkylgK6A",
 			"fillStyle": "solid",
@@ -1319,7 +1319,7 @@ needs to be heavily monitored ^YE8FIbJC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720805586121,
+			"updated": 1732213906604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1407,8 +1407,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 135,
-			"versionNonce": 674460891,
+			"version": 136,
+			"versionNonce": 2144041891,
 			"isDeleted": false,
 			"id": "j14pCXEb",
 			"fillStyle": "solid",
@@ -1433,7 +1433,7 @@ needs to be heavily monitored ^YE8FIbJC
 					"type": "arrow"
 				}
 			],
-			"updated": 1720805586121,
+			"updated": 1732213906605,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1478,8 +1478,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 9,
-			"versionNonce": 1049565781,
+			"version": 10,
+			"versionNonce": 1366672397,
 			"isDeleted": false,
 			"id": "Uz1NxD5b",
 			"fillStyle": "solid",
@@ -1508,7 +1508,7 @@ needs to be heavily monitored ^YE8FIbJC
 					"type": "arrow"
 				}
 			],
-			"updated": 1720805586121,
+			"updated": 1732213906605,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1732,8 +1732,8 @@ needs to be heavily monitored ^YE8FIbJC
 		},
 		{
 			"type": "text",
-			"version": 395,
-			"versionNonce": 155591035,
+			"version": 396,
+			"versionNonce": 2093092675,
 			"isDeleted": false,
 			"id": "YE8FIbJC",
 			"fillStyle": "solid",
@@ -1753,7 +1753,7 @@ needs to be heavily monitored ^YE8FIbJC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720805586121,
+			"updated": 1732213906605,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1783,10 +1783,10 @@ needs to be heavily monitored ^YE8FIbJC
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 562.6431018284388,
-		"scrollY": 1907.8327473231723,
+		"scrollX": 557.5815544128418,
+		"scrollY": 1732.0571975708008,
 		"zoom": {
-			"value": 0.7000000000000001
+			"value": 0.8
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "528133cd8310a408",
+        "id": "e1aca8ecb2bc5196",
         "type": "tabs",
         "children": [
           {
-            "id": "cac4c222f5e20ae5",
+            "id": "617b9d4308cd7ee0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Backend/09 grpc and protobufs.md",
+                "file": "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 grpc and protobufs"
+              "title": "2. PG node.js libarary to connect to postgresql"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.51625061035156
+    "width": 240.51103591918945
   },
   "right": {
     "id": "01ca5ae4e58d6871",
@@ -155,62 +156,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "735b2f4b85c1427f",
+  "active": "617b9d4308cd7ee0",
   "lastOpenFiles": [
-    "NodeJS-ExpressJS/1. Node runtime.md",
-    "NodeJS-ExpressJS/5. Authentication.md",
-    "Next.js/03. Cookies.md",
-    "Postgres and prisma/0. postgreSQL setup.md",
-    "Postgres and prisma/Basic postgres.md",
-    "Postgres and prisma/3. Prisma.md",
-    "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
     "Postgres and prisma/1. select posgtresql.md",
+    "Advanced Backend/09 grpc and protobufs.md",
+    "Advanced Backend/08. json-rpc.md",
+    "Pasted image 20240510161357.png",
+    "Advanced Backend/05. Kafka.md",
+    "Postgres and prisma/2. PG node.js libarary to connect to postgresql.md",
+    "Postgres and prisma/3. Prisma.md",
+    "Postgres and prisma/Basic postgres.md",
+    "Rea interview.md",
+    "README.md",
+    "Untitled.md",
+    "Postgres and prisma/0. postgreSQL setup.md",
     "code crafters/redis in csharp.md",
+    "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
+    "Mongo/1. Mongoose.md",
+    "Testing/Node.js + Express.js.md",
+    "NodeJS-ExpressJS/9. Downloading images from links.md",
+    "ReactJS/16. Lifecycle events.md",
+    "ReactJS/15. custom axios hook.md",
+    "ReactJS/10. upload file From Directory.md",
+    "ReactJS/1. React foundation.md",
+    "ReactJS/2. Throttling and debouncing.md",
+    "ReactJS/7. Layout with outlet and router.md",
+    "Next.js/05. data fetching.md",
+    "ReactJS/4. Sending Files.md",
+    "Next.js/03. Cookies.md",
+    "Typescript/10. React + Typescript.md",
+    "code crafters/git ad hoc notes.md",
+    "Ink/Writing/2024.6.6 - 14.07pm.writing",
+    "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
+    "books/Computer Networks.pdf",
+    "books/blockchain.pdf",
     "Pasted image 20240903011902.png",
     "Pasted image 20240903011812.png",
-    "[Build.md",
-    "Advanced Backend/09 grpc and protobufs.md",
-    "Testing/Node.js + Express.js.md",
     "Testing",
-    "Advanced Backend/08. json-rpc.md",
     "Pasted image 20240826083802.png",
-    "Advanced Backend/07. singletons.md",
-    "Advanced Backend/06. ddos, rate limiting and captchas.md",
-    "Next.js/07. Next Auth.md",
-    "Next.js/04. Backend.md",
-    "Next.js/08. Authjs V5.md",
     "Pasted image 20240810235259.png",
-    "WebSockets/1. introduction.md",
-    "Typescript/12. Open API spec, client generation.md",
     "Pasted image 20240810212602.png",
-    "Advanced Backend/04. zapier clone adhock stuff.md",
-    "ReactJS/12. Routing.md",
-    "Typescript/11. zod + typescript.md",
-    "Next.js/09. Monorepos.md",
-    "NodeJS-ExpressJS/4. Zod(input validation libraries).md",
-    "Advanced Backend/05. Kafka.md",
-    "Ink/Writing/2024.6.6 - 14.07pm.writing",
     "Pasted image 20240723122333.png",
     "Pasted image 20240718102454.png",
     "Pasted image 20240716121843.png",
     "Pasted image 20240716121220.png",
-    "Pasted image 20240715104414.png",
     "Ink/Writing",
     "Ink",
     "Advanced Backend",
     "git2.py",
-    "git.py",
-    "books/javascript-design-patterns-a-javascript-and-react-developers-guide-2nbsped-9781098139872.pdf",
-    "Next.js",
-    "books/Practical SQL A Beginner’s Guide to Storytelling with Data.pdf",
     "Untitled.canvas",
     "hjgjsdfjhd.canvas",
     "Untitled 1.canvas"
